@@ -117,7 +117,7 @@ A complete html and html5 tutorial for study
 - which will be displayed in the `Browser Tab`
 - used for: `bookmark/favourite`
 
-`<body></body>`
+**`<body></body>`**
 
 - used to show content in the browser
 - like: text, images, videos or whatever
