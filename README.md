@@ -124,6 +124,16 @@ A complete html and html5 tutorial for study
 
 ---
 
+## What is the use of UTF-8?
+
+- UTF-8 is a compromise character encoding
+- can be as compact as ASCII (if the file is just plain English text)
+- can also contain any unicode characters (with some increase in file size).
+- UTF stands for **Unicode Transformation Format**
+- The **8** means it uses 8-bit blocks to represent a character.
+
+---
+
 ## What are the markup languages available?
 
 - [LaTex](https://www.overleaf.com/learn/latex/Creating_a_document_in_LaTeX)
