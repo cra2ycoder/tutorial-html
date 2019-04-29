@@ -64,8 +64,65 @@ A complete html and html5 tutorial for study
 
 - attributes must be defined inside the open tag only.
 - custom attributes can be added
+- attributes can be `n` number in one tag
 - syntax: **propertyName="propertyValue"** (example: class="my-class")
 - propertyValue should be surrounded by the `""` (double-quotes)
+
+### Empty elements
+
+- Some elements have no content and are called empty elements.
+  (ex: <img />)
+- which element doesn't have the content as well as close tag then those are called `empty elements`
+
+---
+
+## Anatomy of an HTML document
+
+**structure**
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>My test page</title>
+  </head>
+  <body>
+    <img src="images/firefox-icon.png" alt="My test image" />
+  </body>
+</html>
+```
+
+- **<!DOCTYPE html>**
+
+  - to define the doctype and the version
+
+- **<html></html>**
+
+  - `root` of the html document, or `wrapper`
+
+- **<head></head>**
+
+  - its a `container`
+  - help to include some stuffs which are like, css, script and meta information
+
+- **<meta charset="utf-8">**
+
+  - the character set your document should use to `UTF-8`
+  - not required to use, but it would help us to resolve some problems in later
+
+- **<title></title>**
+
+  - your document title
+  - which will be displayed in the `Browser Tab`
+  - used for: `bookmark/favourite`
+
+- **<body></body>**
+
+  - used to show content in the browser
+  - like: text, images, videos or whatever
+
+---
 
 ## What are the markup languages available?
 
