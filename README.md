@@ -23,7 +23,7 @@ A complete html and html5 tutorial for study
 
 ## What are tags?
 
-- `tags` are basically surrounded by `<` and `>` (angular brackets)
+- `tags` are basically surrounded by `<` and `>` (angle brackets)
 - the name inside a tag is case `insensitive`
 
 ```html
@@ -31,6 +31,41 @@ A complete html and html5 tutorial for study
 <TITLE>
 <Title>
 ```
+
+---
+
+# HTML Basics
+
+## Anatomy of an HTML element
+
+### structure
+
+![](https://mdn.mozillademos.org/files/9347/grumpy-cat-small.png)
+
+**NOTE:**
+
+- open tag and close tag should have the same name
+- **close tag** must be contained a `/` (forward slash)
+- Note that, there are some tags which doesn't have the `close tag` by default.
+
+### attributes
+
+- used to add `extra` information about the tag, which will not be shown in the page
+
+![](https://mdn.mozillademos.org/files/9345/grumpy-cat-attribute-small.png)
+
+**Usage:**
+
+- to fetch the correct element through the `javascript`
+- to write css for styling
+- to data maintaining
+
+**NOTE:**
+
+- attributes must be defined inside the open tag only.
+- custom attributes can be added
+- syntax: **propertyName="propertyValue"** (example: class="my-class")
+- propertyValue should be surrounded by the `""` (double-quotes)
 
 ## What are the markup languages available?
 
