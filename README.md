@@ -2,6 +2,44 @@
 
 A complete html and html5 tutorial for study
 
+## What is HTML?
+
+- expands `Hypertext Markup Language`
+- standard markup language for creating web pages and web applications.
+- uses for appearance/presentation `CSS`
+- uses for functionality/behavior `JavaScript`.
+
+## What is Markup Language?
+
+- A `markup language` is a `computer language`
+- uses `tags` to **define elements within a document**.
+- markup files contain standard words, rather than typical programming syntax.(In simple, It is human-readable)
+
+## What is HyperText?
+
+- refers to links that connect web pages to one another, either within a single website or between websites.
+- Links are a fundamental aspect of the Web.
+- By uploading content to the Internet and linking it to pages we will become active participant in the **World Wide Web**
+
+## What are tags?
+
+- `tags` are basically surrounded by `<` and `>` (angular brackets)
+- the name inside a tag is case `insensitive`
+
+```html
+<title>
+<TITLE>
+<Title>
+```
+
+## What are the markup languages available?
+
+- [LaTex](https://www.overleaf.com/learn/latex/Creating_a_document_in_LaTeX)
+- [Extensible Markup Language (XML)](https://www.tutorialspoint.com/xml/xml_documents.htm)
+- [Generalized Markup Language (GML)]()
+- [Standard Generalized Markup Language (SGML)]()
+- [HyperText Markup Language (HTML)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 ## Core Pieces
 
 - [Main root](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Main_root)
