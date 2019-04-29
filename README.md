@@ -71,7 +71,7 @@ A complete html and html5 tutorial for study
 ### Empty elements
 
 - Some elements have no content and are called empty elements.
-  (ex: <img />)
+  (ex: **`<img />`**)
 - which element doesn't have the content as well as close tag then those are called `empty elements`
 
 ---
