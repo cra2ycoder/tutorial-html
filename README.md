@@ -93,34 +93,34 @@ A complete html and html5 tutorial for study
 </html>
 ```
 
-- **<!DOCTYPE html>**
+**<!DOCTYPE html>**
 
-  - to define the doctype and the version
+- to define the doctype and the version
 
-- **<html></html>**
+**<html></html>**
 
-  - `root` of the html document, or `wrapper`
+- `root` of the html document, or `wrapper`
 
-- **<head></head>**
+**<head></head>**
 
-  - its a `container`
-  - help to include some stuffs which are like, css, script and meta information
+- its a `container`
+- help to include some stuffs which are like, css, script and meta information
 
-- **<meta charset="utf-8">**
+**<meta charset="utf-8">**
 
-  - the character set your document should use to `UTF-8`
-  - not required to use, but it would help us to resolve some problems in later
+- the character set your document should use to `UTF-8`
+- not required to use, but it would help us to resolve some problems in later
 
-- **<title></title>**
+**<title></title>**
 
-  - your document title
-  - which will be displayed in the `Browser Tab`
-  - used for: `bookmark/favourite`
+- your document title
+- which will be displayed in the `Browser Tab`
+- used for: `bookmark/favourite`
 
-- **<body></body>**
+**<body></body>**
 
-  - used to show content in the browser
-  - like: text, images, videos or whatever
+- used to show content in the browser
+- like: text, images, videos or whatever
 
 ---
 
