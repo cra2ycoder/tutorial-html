@@ -2,14 +2,22 @@
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 
-| Item               | Value                                            |
-| ------------------ | ------------------------------------------------ |
-| Tag Name           | h1, h2, h3, h4, h5, h6                           |
-| Element Type       | block-level                                      |
-| Content Categories | Flow content, heading content, palpable content. |
-| Permitted content  | Phrasing content                                 |
-| Tag omission       | None                                             |
-| Permitted parents  | Any element that accepts flow content            |
+| Property              | Description            |
+| --------------------- | ---------------------- |
+| Tag name              | h1, h2, h3, h4, h5, h6 |
+| Required attributes   | none                   |
+| Optional attributes   | global                 |
+| Has close tag?        | yes                    |
+| Is group tag?         | no                     |
+| Child tags            | none                   |
+| Element type          | block-level            |
+| Has default styles?   | yes                    |
+| Tag omission          | heading tags (h1-h6)   |
+| Permitted parent tags | can be any             |
+
+---
+
+**description**
 
 - used to add headings for the page
 - h1: highest value tag
@@ -28,7 +36,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 <h6>Heading H6</h6>
 ```
 
-## usage
+---
+
+## examples
 
 - when using the heading tags inside the heading tags
 
