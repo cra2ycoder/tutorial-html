@@ -2,6 +2,15 @@
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 
+| Item               | Value                                            |
+| ------------------ | ------------------------------------------------ |
+| Tag Name           | h1, h2, h3, h4, h5, h6                           |
+| Element Type       | block-level                                      |
+| Content Categories | Flow content, heading content, palpable content. |
+| Permitted content  | Phrasing content                                 |
+| Tag omission       | None                                             |
+| Permitted parents  | Any element that accepts flow content            |
+
 - used to add headings for the page
 - h1: highest value tag
 - h6: lowest value tag
