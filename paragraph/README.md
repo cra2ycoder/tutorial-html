@@ -38,3 +38,18 @@
 ```
 
 ## examples
+
+- when we adding the `tag omission` tags
+
+```html
+<!--input-->
+<p>
+    This is Main Paragraph
+    <p>This is Sub Paragraph</p>
+</p>
+
+<!--output-->
+<p>This is Main Paragraph</p>
+<p>This is Sub Paragraph</p>
+<p></p>
+```
