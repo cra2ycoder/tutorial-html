@@ -1,6 +1,6 @@
 ## Heading
 
-(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 
 - used to add headings for the page
 - h1: highest value tag
