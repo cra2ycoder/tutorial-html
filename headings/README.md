@@ -20,9 +20,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 **description**
 
 - used to add headings for the page
-- h1: highest value tag
-- h6: lowest value tag
-- difference for the each tag is nothing but, `font-size and the margins`
 
 **syntax**
 
