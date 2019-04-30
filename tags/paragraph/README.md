@@ -36,6 +36,14 @@
 </p>
 ```
 
+---
+
+## preview
+
+![](https://cra2ycoder.sirv.com/html/paragraph.png)
+
+---
+
 ## examples
 
 - when we adding the `tag omission` tags

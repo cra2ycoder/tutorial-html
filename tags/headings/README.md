@@ -38,6 +38,12 @@
 
 ---
 
+## preview
+
+![](https://cra2ycoder.sirv.com/html/heading.png)
+
+---
+
 ## examples
 
 - when using the heading tags inside the heading tags
