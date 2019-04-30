@@ -1,13 +1,22 @@
 # Paragraph
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p
+| Property              | Description          |
+| --------------------- | -------------------- |
+| Tag name              | p                    |
+| Required attributes   | none                 |
+| Optional attributes   | global               |
+| Has close tag?        | yes                  |
+| Is group tag?         | no                   |
+| Child tags            | none                 |
+| Element type          | block-level          |
+| Has default styles?   | yes                  |
+| Tag omission          | heading tags (h1-h6) |
+| Permitted parent tags | can be any           |
 
-**tag name:** `p`
-**element type:** `block-level`
+**description**
 
 - used to add paragraph for the page
-- `default styles` are applicable
-- `close tag` must be required
+- for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p
 
 **syntax**
 
@@ -18,4 +27,4 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p
 </p>
 ```
 
-## usage
+## examples
