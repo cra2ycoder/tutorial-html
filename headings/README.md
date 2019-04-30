@@ -8,6 +8,8 @@
 - `default styles` are applicable
 - difference for the each tag is nothing but, `font-size and the margins`
 
+**syntax**
+
 ```html
 <h1>Heading H1</h1>
 <h2>Heading H2</h2>
@@ -18,3 +20,34 @@
 ```
 
 ## usage
+
+- when using the heading tags inside the heading tags
+
+  - scenario 1:
+
+  ```html
+  <!-- input -->
+  <h1>
+    <h2>Heading H2<h2>
+  </h1>
+
+  <!-- output -->
+  <h1><h1>
+  <h2>Heading H2</h2>
+  <h2></h2>
+  ```
+
+  - scenario 2:
+
+  ```html
+  <!-- input -->
+  <h1>
+    Heading H1
+    <h2>Heading H2<h2>
+  </h1>
+
+  <!-- output -->
+  <h1>Heading H1<h1>
+  <h2>Heading H2</h2>
+  <h2></h2>
+  ```
