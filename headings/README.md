@@ -1,7 +1,5 @@
 ## Heading
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
-
 | Property              | Description            |
 | --------------------- | ---------------------- |
 | Tag name              | h1, h2, h3, h4, h5, h6 |
@@ -20,6 +18,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 **description**
 
 - used to add headings for the page
+- for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 
 **syntax**
 
