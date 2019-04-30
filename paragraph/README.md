@@ -10,7 +10,6 @@
 | Child tags            | none        |
 | Element type          | block-level |
 | Has default styles?   | yes         |
-| Tag omission          | see below   |
 | Permitted parent tags | can be any  |
 
 **description**

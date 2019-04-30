@@ -10,7 +10,6 @@
 | Child tags            | none                   |
 | Element type          | block-level            |
 | Has default styles?   | yes                    |
-| Tag omission          | heading tags (h1-h6)   |
 | Permitted parent tags | can be any             |
 
 ---
@@ -19,6 +18,12 @@
 
 - used to add headings for the page
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+
+**Tag omissions**
+
+```
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6>
+```
 
 **syntax**
 
