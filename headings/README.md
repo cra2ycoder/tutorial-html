@@ -22,7 +22,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 - used to add headings for the page
 - h1: highest value tag
 - h6: lowest value tag
-- `default styles` are applicable
 - difference for the each tag is nothing but, `font-size and the margins`
 
 **syntax**
