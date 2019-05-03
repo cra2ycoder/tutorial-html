@@ -42,18 +42,31 @@ None
 
 ## preview
 
-<img src="./preview/anchor.png" width="300px"/>
+<img src="./preview/anchor.png" width="450px"/>
 
 ---
 
 ## examples
 
 ```html
+<!-- Default View: -->
 <a>Default View</a>
+
+<!-- external location / absolute url -->
 <a href="https://www.google.com">Go to Google Page</a>
+
+<!-- another section in the section (like hashtag) -->
 <a href="#samepage">Internal</a>
+
+<!-- preventing from navigation -->
 <a href="#">Preventing Navigation</a>
+
+<!-- different page in same project -->
 <a href="anchor.html">Go to Anchor Page</a>
+
+<!-- used to open mail app which is set by default in our machine -->
 <a href="mailto:example@domain.com">example@domain.com</a>
+
+<!-- used to open default dialers based on the device -->
 <a href="tel:+123456789">+123456789</a>
 ```
