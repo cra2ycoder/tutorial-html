@@ -38,6 +38,19 @@ None
 - used to navigate the page
 - there is a default css for normal state, visited state and click state (everything are color changes only)
 
+**useful attributes**
+
+| Property | values                           | Description                     |
+| -------- | -------------------------------- | ------------------------------- |
+| target   | \_blank, \_self, \_parent, \_top | where to display the linked URL |
+
+- example for target:
+
+```html
+<a href="https://www.google.com" target="_blank">Go to Google Page</a>
+<a href="https://www.google.com" target="_self">Go to Google Page</a>
+```
+
 ---
 
 ## preview
