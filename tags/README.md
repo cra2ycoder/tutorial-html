@@ -68,3 +68,7 @@
 ## Sections (For Layout Specific)
 
 - [div]()
+
+## For Browser Support Checking
+
+https://caniuse.com/

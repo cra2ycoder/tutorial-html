@@ -41,19 +41,52 @@ none
 
 **useful attributes**
 
-| Property | values                 | Description                              |
-| -------- | ---------------------- | ---------------------------------------- |
-| alt      | custom value as string | alternate text when image is not loading |
-| width    |                        |                                          |
-| height   |                        |                                          |
-| srcset   |                        |                                          |
-| sizes    |                        |                                          |
+| Property | values                 | Description                                    |
+| -------- | ---------------------- | ---------------------------------------------- |
+| alt      | custom value as string | alternate text when image is not loading       |
+| width    | in px                  | set width                                      |
+| height   | in px                  | set height                                     |
+| srcset   | img url                | loads HD images based on the device resolution |
+| sizes    | media query css        | resize the image based on the media query      |
 
-- example for target:
+- examples:
 
-```html
+  - alt
 
-```
+    ```html
+    <img src="https://via.placeholder.com/150" alt="placeholder image" />
+    ```
+
+  - width and height
+
+  ```html
+  <img src="https://via.placeholder.com/300" width="150px" height="150px" />
+  ```
+
+  - srcset
+
+  ```html
+  <img
+    src="https://via.placeholder.com/150"
+    srcset="
+      https://via.placeholder.com/300 1x,
+      https://via.placeholder.com/600 2x
+    "
+  />
+  ```
+
+  - srcset + sizes
+
+  ```html
+  <img
+    src="https://via.placeholder.com/150"
+    srcset="
+      https://via.placeholder.com/300 1x,
+      https://via.placeholder.com/600 2x
+    "
+    sizes="(max-width: 300px) 300w, (max-width: 400px) 320w, 50vw"
+  />
+  ```
 
 ---
 
