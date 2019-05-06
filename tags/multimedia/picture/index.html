@@ -6,5 +6,21 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Picture</title>
   </head>
-  <body></body>
+  <body>
+    <picture>
+      <source
+        srcset="https://via.placeholder.com/300"
+        media="(max-width: 300px)"
+      />
+      <source
+        srcset="https://via.placeholder.com/600"
+        media="(max-width: 600px)"
+      />
+      <source
+        srcset="https://via.placeholder.com/900"
+        media="(max-width: 900px)"
+      />
+      <img src="https://via.placeholder.com/150" alt="placeholder image" />
+    </picture>
+  </body>
 </html>

@@ -2,54 +2,51 @@
 
 | Property              | Description |
 | --------------------- | ----------- |
-| Tag name              |             |
-| Required attributes   |             |
-| Optional attributes   |             |
-| Has close tag?        |             |
-| Is group tag?         |             |
-| Child tags            |             |
-| Element type          |             |
-| Has default styles?   |             |
-| Permitted parent tags |             |
+| Tag name              | picture     |
+| Required attributes   | no          |
+| Optional attributes   | global      |
+| Has close tag?        | yes         |
+| Is group tag?         | yes         |
+| Child tags            | img, source |
+| Element type          | inline      |
+| Has default styles?   | no          |
+| Permitted parent tags | can be any  |
 
 ---
 
 **description**
 
-- for more: <%REF_LINK%>
+- picture tag help us to load the image (different or same). Based on the device dimensions
+- `source` tag will store the image urls with `media` attribute
+- `img` tag will load the image by fetching it from `source` tag based on the device dimension else loads default image.
+- for more:
+  - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
+  - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source
 
 **Tag omissions**
 
 ```
-
+none
 ```
 
 **syntax**
 
 ```html
-
+<picture>
+  <source srcset="https://via.placeholder.com/300" media="(max-width: 300px)" />
+  <source srcset="https://via.placeholder.com/600" media="(max-width: 600px)" />
+  <source srcset="https://via.placeholder.com/900" media="(max-width: 900px)" />
+  <img src="https://via.placeholder.com/150" alt="placeholder image" />
+</picture>
 ```
-
-**useful attributes**
-
-| Property | values | Description |
-| -------- | ------ | ----------- |
-|          |        |             |
-
-- example for target:
-
-```html
-
-```
-
----
-
-## preview
 
 ---
 
 ## examples
 
-```html
-
-```
+<picture>
+  <source srcset="https://via.placeholder.com/300" media="(max-width: 300px)" />
+  <source srcset="https://via.placeholder.com/600" media="(max-width: 600px)" />
+  <source srcset="https://via.placeholder.com/900" media="(max-width: 900px)" />
+  <img src="https://via.placeholder.com/150" alt="placeholder image" />
+</picture>
