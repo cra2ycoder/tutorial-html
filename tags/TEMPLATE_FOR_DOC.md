@@ -1,13 +1,13 @@
-## Image
+## Tag Name
 
 | Property              | Description |
 | --------------------- | ----------- |
-| Tag name              | img         |
+| Tag name              |             |
 | Required attributes   |             |
-| Optional attributes   | global      |
-| Has close tag?        | no          |
-| Is group tag?         | no          |
-| Child tags            | none        |
+| Optional attributes   |             |
+| Has close tag?        |             |
+| Is group tag?         |             |
+| Child tags            |             |
 | Element type          |             |
 | Has default styles?   |             |
 | Permitted parent tags |             |
@@ -16,8 +16,7 @@
 
 **description**
 
-- used to render/embed a image into your document
-- for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+- for more: <%REF_LINK%>
 
 **Tag omissions**
 
@@ -35,7 +34,7 @@
 
 | Property | values | Description |
 | -------- | ------ | ----------- |
-| target   |        |             |
+|          |        |             |
 
 - example for target:
 
