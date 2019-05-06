@@ -53,9 +53,9 @@ none
 
   - alt
 
-    ```html
-    <img src="https://via.placeholder.com/150" alt="placeholder image" />
-    ```
+  ```html
+  <img src="https://via.placeholder.com/150" alt="placeholder image" />
+  ```
 
   - width and height
 
@@ -91,6 +91,8 @@ none
 ---
 
 ## preview
+
+<img src="./preview/image.png" width="300px" />
 
 ---
 
