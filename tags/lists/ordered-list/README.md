@@ -2,7 +2,7 @@
 
 | Property              | Description |
 | --------------------- | ----------- |
-| Tag name              | ul          |
+| Tag name              | ol          |
 | Required attributes   | none        |
 | Optional attributes   | global      |
 | Has close tag?        | yes         |
@@ -16,10 +16,10 @@
 
 **description**
 
-- used to represent unordered list of items
-- rendered as **bullet** list
+- used to represent ordered list of items
+- rendered as **numbered** list
 - can be **nested**
-- for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
+- for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol
 
 **Tag omissions**
 
@@ -30,11 +30,11 @@ none
 **syntax**
 
 ```html
-<ul>
+<ol>
   <li>item 1</li>
   <li>item 2</li>
   <li>item 3</li>
-</ul>
+</ol>
 ```
 
 ---
@@ -44,67 +44,67 @@ none
 **default example:**
 
 ```html
-<ul>
+<ol>
   <li>fruits</li>
   <li>vegetables</li>
   <li>cars</li>
-</ul>
+</ol>
 ```
 
 **preview:**
 
-<ul>
+<ol>
   <li>fruits</li>
   <li>vegetables</li>
   <li>cars</li>
-</ul>
+</ol>
 
 ---
 
 **nested example:**
 
 ```html
-<ul>
+<ol>
   <li>fruits</li>
-  <ul>
+  <ol>
     <li>mango</li>
     <li>orange</li>
     <li>watermelon</li>
-  </ul>
+  </ol>
   <li>vegetables</li>
-  <ul>
+  <ol>
     <li>ladies finger</li>
     <li>potato</li>
     <li>tomato</li>
-  </ul>
+  </ol>
   <li>cars</li>
-  <ul>
+  <ol>
     <li>audi</li>
     <li>bmw</li>
     <li>honda</li>
-  </ul>
-</ul>
+  </ol>
+</ol>
 ```
 
 **preview:**
 
-<ul>
+<ol>
   <li>fruits</li>
-  <ul>
+  <ol>
     <li>mango</li>
     <li>orange</li>
     <li>watermelon</li>
-  </ul>
+  </ol>
   <li>vegetables</li>
-  <ul>
+  <ol>
     <li>ladies finger</li>
     <li>potato</li>
     <li>tomato</li>
-  </ul>
+  </ol>
   <li>cars</li>
-  <ul>
+  <ol>
     <li>audi</li>
     <li>bmw</li>
     <li>honda</li>
-  </ul>
-</ul>
+  </ol>
+</ol>
