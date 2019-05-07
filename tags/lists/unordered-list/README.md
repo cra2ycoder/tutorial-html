@@ -59,6 +59,8 @@ none
   <li>cars</li>
 </ul>
 
+---
+
 **nested example:**
 
 ```html
