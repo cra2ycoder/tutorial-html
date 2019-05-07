@@ -2,54 +2,70 @@
 
 | Property              | Description |
 | --------------------- | ----------- |
-| Tag name              |             |
-| Required attributes   |             |
-| Optional attributes   |             |
-| Has close tag?        |             |
-| Is group tag?         |             |
-| Child tags            |             |
-| Element type          |             |
-| Has default styles?   |             |
-| Permitted parent tags |             |
+| Tag name              | details     |
+| Required attributes   | no          |
+| Optional attributes   | global      |
+| Has close tag?        | yes         |
+| Is group tag?         | yes         |
+| Child tags            | summary     |
+| Element type          | block       |
+| Has default styles?   | yes         |
+| Permitted parent tags | can be any  |
 
 ---
 
 **description**
 
-- for more: <%REF_LINK%>
+- its like mini accordian
+- comes with inbuilt open/close state
+- there is no in-built way to animate the open/close states
+- `open` boolean attribute will be added when toggling the `details` tag
+- for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
 
 **Tag omissions**
 
 ```
-
+none
 ```
 
 **syntax**
 
 ```html
-
+<details>
+  <summary>Details</summary>
+  <p>
+    The HTML Details Element (details) creates a disclosure widget in which
+    information is visible only when the widget is toggled into an "open" state.
+  </p>
+</details>
 ```
-
-**useful attributes**
-
-| Property | values | Description |
-| -------- | ------ | ----------- |
-|          |        |             |
-
-- example for target:
-
-```html
-
-```
-
----
-
-## preview
 
 ---
 
 ## examples
 
 ```html
-
+<details>
+  <summary>Flow Content</summary>
+  <h2>Details Tag</h2>
+  <p>
+    The HTML Details Element (details) creates a disclosure widget in which
+    information is visible only when the widget is toggled into an "open" state.
+  </p>
+  <img src="https://via.placeholder.com/150" alt="placeholder" />
+  <p></p>
+  <a href="https://www.google.com" target="_blank">Google.com</a>
+</details>
 ```
+
+<details>
+  <summary>Flow Content</summary>
+  <h2>Details Tag</h2>
+  <p>
+    The HTML Details Element (details) creates a disclosure widget in which
+    information is visible only when the widget is toggled into an "open" state.
+  </p>
+  <img src="https://via.placeholder.com/150" alt="placeholder" />
+  <p></p>
+  <a href="https://www.google.com" target="_blank">Google.com</a>
+</details>
