@@ -68,8 +68,4 @@ none
 ></audio>
 ```
 
-<audio
-controls
-src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
-
-> </audio>
+<audio controls src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"></audio>
