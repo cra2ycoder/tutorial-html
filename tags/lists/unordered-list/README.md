@@ -41,7 +41,7 @@ none
 
 ## examples
 
-- default
+**default example:**
 
 ```html
 <ul>
@@ -51,13 +51,15 @@ none
 </ul>
 ```
 
+**preview:**
+
 <ul>
   <li>fruits</li>
   <li>vegetables</li>
   <li>cars</li>
 </ul>
 
-- nested
+**nested example:**
 
 ```html
 <ul>
@@ -81,6 +83,8 @@ none
   </ul>
 </ul>
 ```
+
+**preview:**
 
 <ul>
   <li>fruits</li>
