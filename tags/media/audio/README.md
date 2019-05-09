@@ -35,7 +35,9 @@ none
 ```html
 <!-- default -->
 <audio controls src="myAudio.mp3"></audio>
+```
 
+```html
 <!-- default with error messages -->
 <audio controls src="myAudio.mp3">
   <p>
