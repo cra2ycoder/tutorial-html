@@ -17,7 +17,7 @@
 **description**
 
 - used to create audio player
-- can be added multiple audio paths using `source` tag, by doing this browser can easily pick up the working format file by default
+- can be added multiple audio sources using `source` tag, by doing this browser can easily pick up the working format file by default
 - can be added `error` messages when the browser doesn't support the `audio` tag
 - comes with multiple attributes to control the player
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
@@ -36,6 +36,19 @@ none
 <audio controls src="<%AUDIO_MP3_URL_GOES_HERE%>"></audio>
 ```
 
+```html
+<audio controls src="myAudio.mp3"></audio>
+```
+
+- adding multiple sources
+
+```html
+<audio controls>
+  <source src="myAudio.mp3" type="audio/mpeg" />
+  <source src="myAudio.ogg" type="audio/ogg" />
+</audio>
+```
+
 - adding multiple sources with error message
 
 ```html
@@ -51,13 +64,13 @@ none
 
 **useful attributes**
 
-| Property | values | Description |
-| -------- | ------ | ----------- |
-| controls |        |             |
-| autoplay |        |             |
-| loop     |        |             |
-| muted    |        |             |
-| preload  |        |             |
+| Property | values  | Description                    |
+| -------- | ------- | ------------------------------ |
+| controls | boolean | used to toggle controls        |
+| autoplay | boolean | used to do auto play the audio |
+| loop     | boolean | used to loop the audio         |
+| muted    | boolean | used to mute the audio         |
+| preload  | boolean | used to preloading the audio   |
 
 ## examples
 
@@ -65,7 +78,13 @@ none
 <audio
   controls
   src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
-></audio>
+>
+  <p>
+    Your browser doesn't support HTML5 audio. Here is a
+    <a href="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+      >link to the audio</a
+    >
+    instead.
+  </p>
+</audio>
 ```
-
-<audio controls src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"></audio>
