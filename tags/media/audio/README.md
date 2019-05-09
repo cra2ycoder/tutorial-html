@@ -33,31 +33,34 @@ none
 - default
 
 ```html
-<audio controls src="<%AUDIO_MP3_URL_GOES_HERE%>"></audio>
-```
-
-```html
+<!-- default -->
 <audio controls src="myAudio.mp3"></audio>
+
+<!-- default with error messages -->
+<audio controls src="myAudio.mp3">
+  <p>
+    Your browser doesn't support HTML5 audio.
+  </p>
+</audio>
 ```
 
 - adding multiple sources
 
 ```html
+<!-- default -->
 <audio controls>
   <source src="myAudio.mp3" type="audio/mpeg" />
   <source src="myAudio.ogg" type="audio/ogg" />
 </audio>
 ```
 
-- adding multiple sources with error message
-
 ```html
+<!-- default with error messages -->
 <audio controls>
   <source src="myAudio.mp3" type="audio/mpeg" />
   <source src="myAudio.ogg" type="audio/ogg" />
   <p>
-    Your browser doesn't support HTML5 audio. Here is a
-    <a href="myAudio.mp4">link to the audio</a> instead.
+    Your browser doesn't support HTML5 audio.
   </p>
 </audio>
 ```
@@ -71,20 +74,3 @@ none
 | loop     | boolean | used to loop the audio         |
 | muted    | boolean | used to mute the audio         |
 | preload  | boolean | used to preloading the audio   |
-
-## examples
-
-```html
-<audio
-  controls
-  src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
->
-  <p>
-    Your browser doesn't support HTML5 audio. Here is a
-    <a href="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
-      >link to the audio</a
-    >
-    instead.
-  </p>
-</audio>
-```
