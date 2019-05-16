@@ -7,9 +7,49 @@
     <title>Audio</title>
   </head>
   <body>
+    <!-- default -->
+    <h3>Default Audio Player:</h3>
+    <audio
+      src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    ></audio>
+    <hr />
+
+    <!-- enabling controls -->
+    <h3>Audio Player with controls enabled</h3>
     <audio
       controls
       src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
     ></audio>
+    <hr />
+
+    <!-- audio player with controls + autoplay -->
+    <h3>Audio Player with controls + autoplay</h3>
+    <audio
+      controls
+      autoplay
+      src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    ></audio>
+    <hr />
+
+    <!-- audio player with controls + autoplay + loop + muted -->
+    <h3>Audio Player with controls + autoplay + loop + muted</h3>
+    <audio
+      controls
+      autoplay
+      loop
+      muted
+      src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    ></audio>
+    <hr />
+
+    <!-- audio player with error message -->
+    <h3>Audio player with error message</h3>
+    <audio
+      controls
+      src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    >
+      <p>Your browser doesn't support HTML5 audio.</p>
+    </audio>
+    <hr />
   </body>
 </html>
