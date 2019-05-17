@@ -100,14 +100,20 @@ no
 
 ### How the tabindex is working?
 
-- **-1:** skip focus / focus will not be shown
-- **0:** default value is 0, browser will take care of the focusing order when clicking on the tab + shift tab
-- **n:**
+- **-1:** skip the focus / focus will not be shown
+- **0:** default value is 0, browser will take care of the focusing order when clicking on the **tab and shift + tab** keys
+- **n:** its a positive value to define the order of the focus
+
+**work flow**
+
+- as said above, **-1** will skip the focusing
+- but, take this kind of scenarios: we have a 4 elements and their `tabindex` is following like below then:
+  - 0, 1, 2, 3 ->
 
 ### How to pair the label and form element?
 
-- instead of using `placeholder` we can use `label` tag that will help of semantic
-- for paring the label and the field tag we need to use two attributes `for` and `id`
+- instead of using `placeholder` we should use `label` tag that will help on the semantic area.
+- so, for paring the label and the field tag we need to use two attributes `for` and `id`
 
 ```html
 <form action="">
