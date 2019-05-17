@@ -61,13 +61,16 @@ no
 
 **useful attributes**
 
-| Property  | values     | Description                                   |
-| --------- | ---------- | --------------------------------------------- |
-| autofocus | true/false | used to enable auto highlight by default      |
-| disable   | true/false | used to disable the input box                 |
-| readonly  | true/false | allows only to read                           |
-| required  | true/false | make the field as mandatory                   |
-| tabindex  | -1, 0, n   | to control tab / shift + tab on the autofocus |
+| Property    | values     | Description                                   |
+| ----------- | ---------- | --------------------------------------------- |
+| autofocus   | true/false | used to enable auto highlight by default      |
+| disable     | true/false | used to disable the input box                 |
+| readonly    | true/false | allows only to read                           |
+| required    | true/false | make the field as mandatory                   |
+| tabindex    | -1, 0, n   | to control tab / shift + tab on the autofocus |
+| placeholder | string     | used to set placeholder text                  |
+| minlength   | number     | used to minimum length of the character       |
+| maxlength   | number     | used to maximum length of the character       |
 
 ---
 
@@ -92,3 +95,23 @@ no
 - **types:** types.html
 
   - all the types of input tag
+
+## Special Notes:
+
+### How the tabindex is working?
+
+- **-1:** skip focus / focus will not be shown
+- **0:** default value is 0, browser will take care of the focusing order when clicking on the tab + shift tab
+- **n:**
+
+### How to pair the label and form element?
+
+- instead of using `placeholder` we can use `label` tag that will help of semantic
+- for paring the label and the field tag we need to use two attributes `for` and `id`
+
+```html
+<form action="">
+  <label for="firstname">First Name</label>
+  <input id="firstname" />
+</form>
+```
