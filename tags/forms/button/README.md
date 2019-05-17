@@ -78,6 +78,10 @@ none
 <button>button</button>
 ```
 
+<button>button</button>
+
+---
+
 - button with different types (button, submit, reset)
 
 ```html
@@ -86,11 +90,21 @@ none
 <button type="reset">Reset</button>
 ```
 
+<button type="submit">Submit</button>
+<button type="button">Button</button>
+<button type="reset">Reset</button>
+
+---
+
 - button with disable state
 
 ```html
 <button type="button" disabled>Disabled</button>
 ```
+
+<button type="button" disabled>Disabled</button>
+
+---
 
 - button with form data properties (name, value)
 
@@ -98,8 +112,14 @@ none
 <button name="btn" value="custom">Custom</button>
 ```
 
+<button name="btn" value="custom">Custom</button>
+
+---
+
 - button with autofocus
 
 ```html
 <button type="button" autofocus>Auto Focus</button>
 ```
+
+<button type="button" autofocus>Auto Focus</button>
