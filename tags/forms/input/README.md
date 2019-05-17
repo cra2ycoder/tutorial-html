@@ -143,6 +143,7 @@ no
 
 - instead of using `placeholder` we should use `label` tag that will help on the semantic area.
 - so, for paring the label and the field tag we need to use two attributes `for` and `id`
+- `for` attribute for label, `id` attribute for form field
 
 ```html
 <form action="">
