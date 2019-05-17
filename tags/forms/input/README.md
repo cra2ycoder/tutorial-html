@@ -108,7 +108,30 @@ no
 
 - as said above, **-1** will skip the focusing
 - but, take this kind of scenarios: we have a 4 elements and their `tabindex` is following like below then:
-  - 0, 1, 2, 3 ->
+
+<img width="300px" src="./assets/tabindex_custom_idx_flow.gif" />
+
+---
+
+<img width="300px" src="./assets/tabindex_custom_idx_flow_from_doc.gif" />
+
+---
+
+<img width="300px" src="./assets/tabindex_custom_idx_flow_from_url.gif" />
+
+---
+
+<img width="300px" src="./assets/tabindex_custom_idx_mixed_with_zero.gif" />
+
+---
+
+<img width="300px" src="./assets/tabindex_custom_idx_mixed_with_zero_doc.gif" />
+
+---
+
+<img width="300px" src="./assets/tabindex_def_flow.gif" />
+
+---
 
 ### How to pair the label and form element?
 
