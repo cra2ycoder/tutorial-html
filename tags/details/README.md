@@ -1,4 +1,4 @@
-## Tag Name
+## Details
 
 | Property              | Description |
 | --------------------- | ----------- |
