@@ -47,6 +47,12 @@
       <input type="date" />
       <h4>datetime-local:</h4>
       <input type="datetime-local" />
+      <h4>month</h4>
+      <input type="month" />
+      <h4>week</h4>
+      <input type="week" />
+      <h4>time</h4>
+      <input type="time" />
     </form>
     <hr />
 
@@ -78,6 +84,37 @@
         width="100px"
         height="100px"
       />
+    </form>
+    <hr />
+
+    <h3>Input Type: number</h3>
+    <form action="">
+      <input type="number" value="0" min="0" max="10" />
+    </form>
+    <hr />
+
+    <h3>Input Type: password</h3>
+    <form action="">
+      <input type="password" minlength="8" maxlength="16" />
+    </form>
+    <hr />
+
+    <h3>Input Type: radio</h3>
+    <form action="">
+      <h4>choose your fruit:</h4>
+      <label for="opt-apple">Apple</label>
+      <input type="radio" value="apple" name="fruit-opt" id="opt-apple" />
+      <label for="opt-orange">Orange</label>
+      <input type="radio" value="orange" name="fruit-opt" id="opt-orange" />
+      <label for="opt-pineapple">Pineapple</label>
+      <input
+        type="radio"
+        value="pineapple"
+        name="fruit-opt"
+        id="opt-pineapple"
+      />
+      <label for="opt-papaya">Papaya</label>
+      <input type="radio" value="papaya" name="fruit-opt" id="opt-papaya" />
     </form>
     <hr />
   </body>
