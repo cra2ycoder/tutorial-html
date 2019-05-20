@@ -1,4 +1,4 @@
-## Audio
+## Video
 
 | Property              | Description    |
 | --------------------- | -------------- |
