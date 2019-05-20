@@ -77,3 +77,7 @@ none
 | muted    | boolean   | used to mute the video                          |
 | preload  | boolean   | used to preloading the video                    |
 | poster   | image url | used to set first frame as a image in the video |
+
+**NOTES**
+
+- In some browsers (e.g. Chrome 70.0) **autoplay** is not working if no muted attribute is present.
