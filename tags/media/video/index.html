@@ -7,60 +7,71 @@
     <title>Video</title>
   </head>
   <body>
-    <!-- http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg
-    http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg
-    http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg
-    http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg
-    http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerFun.jpg
-    http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg
-    http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerMeltdowns.jpg
-    http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg
-    http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/SubaruOutbackOnStreetAndDirt.jpg
-    http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg -->
     <!-- default -->
     <h3>Default video Player:</h3>
     <video
-      controls
-      src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg"
+      src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
     ></video>
     <hr />
 
     <!-- enabling controls -->
-    <h3>video Player with controls enabled</h3>
+    <h3>Video Player with controls enabled</h3>
     <video
       controls
-      src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+      src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
     ></video>
     <hr />
 
     <!-- video player with controls + autoplay -->
-    <h3>video Player with controls + autoplay</h3>
+    <h3>Video Player with controls + autoplay</h3>
     <video
       controls
       autoplay
-      src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+      src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
     ></video>
     <hr />
 
     <!-- video player with controls + autoplay + loop + muted -->
-    <h3>video Player with controls + autoplay + loop + muted</h3>
+    <h3>Video Player with controls + autoplay + loop + muted</h3>
     <video
       controls
       autoplay
       loop
       muted
-      src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+      src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
     ></video>
     <hr />
 
     <!-- video player with error message -->
-    <h3>video player with error message</h3>
+    <h3>Video player with error message</h3>
     <video
       controls
-      src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+      src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
     >
       <p>Your browser doesn't support HTML5 video.</p>
     </video>
     <hr />
+
+    <!-- video player with multiple sources with poster -->
+    <h3>Video player with multiple sources with poster</h3>
+    <video
+      width="620"
+      controls
+      poster="https://upload.wikimedia.org/wikipedia/commons/e/e8/Elephants_Dream_s5_both.jpg"
+    >
+      <source
+        src="https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4"
+        type="video/mp4"
+      />
+      <source
+        src="https://archive.org/download/ElephantsDream/ed_hd.ogv"
+        type="video/ogg"
+      />
+      <source
+        src="https://archive.org/download/ElephantsDream/ed_hd.avi"
+        type="video/avi"
+      />
+      Your browser doesn't support HTML5 video tag.
+    </video>
   </body>
 </html>
