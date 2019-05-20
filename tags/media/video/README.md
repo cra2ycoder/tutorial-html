@@ -72,8 +72,8 @@ none
 | Property | values    | Description                                     |
 | -------- | --------- | ----------------------------------------------- |
 | controls | boolean   | used to toggle controls                         |
-| autoplay | boolean   | used to do auto play the audio                  |
-| loop     | boolean   | used to loop the audio                          |
-| muted    | boolean   | used to mute the audio                          |
-| preload  | boolean   | used to preloading the audio                    |
+| autoplay | boolean   | used to do auto play the video                  |
+| loop     | boolean   | used to loop the video                          |
+| muted    | boolean   | used to mute the video                          |
+| preload  | boolean   | used to preloading the video                    |
 | poster   | image url | used to set first frame as a image in the video |
