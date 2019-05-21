@@ -2,13 +2,13 @@
 
 ## HTML Structure
 
-| tag name | description |
-| -------- | ----------- |
-| html     |             |
-| head     |             |
-| body     |             |
-| base     |             |
-| meta     |             |
+| tag name | used for |
+| -------- | -------- |
+| **html** |          |
+| **head** |          |
+| **body** |          |
+| **base** |          |
+| **meta** |          |
 
 - [head](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
 - [title](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title)
