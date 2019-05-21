@@ -22,8 +22,6 @@
     <p>about tag</p>
 </details>
 
----
-
 <details>
     <summary><b>Headings</b></summary>
     <br/>
@@ -31,8 +29,6 @@
     <p>about tag</p>
     <br/>
 </details>
-
----
 
 <details>
     <summary><b>paragraph</b></summary>
@@ -42,8 +38,6 @@
     <br/>
 </details>
 
----
-
 <details>
     <summary><b>anchor</b></summary>
     <br/>
@@ -52,23 +46,41 @@
     <br/>
 </details>
 
----
+<details>
+    <summary><b>image</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img">img</a>
+    <p>about tag</p>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/map">map</a>
+    <p>about tag</p>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/area">area</a>
+    <p>about tag</p>
+    <br/>
+</details>
 
-## image
+<details>
+    <summary><b>figure</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure">figure</a>
+    <p>about tag</p>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption">figcaption</a>
+    <p>about tag</p>
+    <br/>
+</details>
 
-- [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
-- [map](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/map)
-- [area](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/area)
-
-## figure
-
-- [figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
-- [figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption)
-
-## picture
-
-- [picture](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
-- [source](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source)
+<details>
+    <summary><b>picture</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture">picture</a>
+    <p>about tag</p>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source">source</a>
+    <p>about tag</p>
+    <br/>
+</details>
 
 ## List
 
