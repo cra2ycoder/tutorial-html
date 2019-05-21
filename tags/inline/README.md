@@ -37,7 +37,8 @@
 - example:
 
 ```html
-
+<p>I am learning <abbr title="Hypertext Markup Language">HTML</abbr></p>
+<!-- try hovering the mouse on the HTML text. -->
 ```
 
 - **code**
@@ -45,7 +46,9 @@
 - example:
 
 ```html
-
+<code>
+  .className { background-color: red; }
+</code>
 ```
 
 - **kbd**
@@ -53,7 +56,7 @@
 - example:
 
 ```html
-
+<p>please press: <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>ALT</kbd></p>
 ```
 
 - **mark**
@@ -61,65 +64,29 @@
 - example:
 
 ```html
-
+<p>I am learning <mark>HTML</mark></p>
 ```
 
-- **del**
+- **del** + **ins**
 
 - example:
 
 ```html
-
-```
-
-- **ins**
-
-- example:
-
-```html
-
+<p>I am learning <del>HTML</del> <ins>CSS</ins></p>
 ```
 
 ## rare
 
-- **b**
+- **b** + **i** + **u** + **q** + **s**
 
 - example:
 
 ```html
-
-```
-
-- **i**
-
-- example:
-
-```html
-
-```
-
-- **u**
-
-- example:
-
-```html
-
-```
-
-- **q**
-
-- example:
-
-```html
-
-```
-
-- **s**
-
-- example:
-
-```html
-
+<p>I am learning <b>HTML</b></p>
+<p>I am learning <i>HTML</i></p>
+<p>I am learning <u>HTML</u></p>
+<p>I am learning <q>HTML</q></p>
+<p>I am learning <s>HTML</s></p>
 ```
 
 - **small**
@@ -127,7 +94,7 @@
 - example:
 
 ```html
-
+<p><small>I am learning HTML</small></p>
 ```
 
 - **strong**
@@ -135,23 +102,16 @@
 - example:
 
 ```html
-
+<p>I am learning <strong>HTML</strong></p>
 ```
 
-- **sub**
+- **sub** + **sup**
 
 - example:
 
 ```html
-
-```
-
-- **sup**
-
-- example:
-
-```html
-
+<p>Water Formula: H<sub>2</sub>O</p>
+<p>Maths Formula: a<sup>2</sup></p>
 ```
 
 - **time**
@@ -159,5 +119,8 @@
 - example:
 
 ```html
-
+<p>
+  The Cure will be celebrating their 40th anniversary on
+  <time datetime="2018-07-07">July 7</time> in London's Hyde Park.
+</p>
 ```
