@@ -19,6 +19,8 @@
 - used to create a caption
 - to associate the `label` with `input` element, we need to use `for` attribute
 - mostly this tag will be used in the form elements to set the title/heading/caption
+- this is more helpful on the semantic end
+- best replacement for `placeholder` attribute
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label
 
 **Tag omissions**
