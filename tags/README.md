@@ -1,32 +1,58 @@
 # Tags
 
 <details>
-    <summary>Html Structure</summary>
+    <summary><b>Html Structure</b></summary>
     <br/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html">html</a>  <p>about tag</p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html">html</a>
+    <p>about tag</p>
     <br/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head">head</a>  <p>about tag</p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head">head</a>
+    <p>about tag</p>
     <br/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title">title</a>  <p>about tag</p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title">title</a>
+    <p>about tag</p>
     <br/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body">body</a>  <p>about tag</p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body">body</a>
+    <p>about tag</p>
     <br/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base">base</a>  <p>about tag</p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base">base</a>
+    <p>about tag</p>
     <br/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta">meta</a>  <p>about tag</p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta">meta</a>
+    <p>about tag</p>
 </details>
 
-## headings
+---
 
-- [h1-h6](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+<details>
+    <summary><b>Headings</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements">h1-h6</a>
+    <p>about tag</p>
+    <br/>
+</details>
 
-## paragraph
+---
 
-- [p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
+<details>
+    <summary><b>paragraph</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p">p</a>
+    <p>about tag</p>
+    <br/>
+</details>
 
-## anchor
+---
 
-- [a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+<details>
+    <summary><b>anchor</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a">a</a>
+    <p>about tag</p>
+    <br/>
+</details>
+
+---
 
 ## image
 
