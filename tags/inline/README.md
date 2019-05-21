@@ -59,13 +59,33 @@
 <p>I am learning <del>HTML</del> <ins>CSS</ins></p>
 ```
 
-## bold (b) + italic (i) + underline (u) + quotes (q) + strike-through (s)
+## bold (b)
 
 ```html
 <p>I am learning <b>HTML</b></p>
+```
+
+## italic (i)
+
+```html
 <p>I am learning <i>HTML</i></p>
+```
+
+## underline (u)
+
+```html
 <p>I am learning <u>HTML</u></p>
+```
+
+## quotes (q)
+
+```html
 <p>I am learning <q>HTML</q></p>
+```
+
+## strike-through (s)
+
+```html
 <p>I am learning <s>HTML</s></p>
 ```
 
@@ -81,10 +101,15 @@
 <p>I am learning <strong>HTML</strong></p>
 ```
 
-## subscript (sub) + superscript (sup)
+## subscript (sub)
 
 ```html
 <p>Water Formula: H<sub>2</sub>O</p>
+```
+
+## superscript (sup)
+
+```html
 <p>Maths Formula: a<sup>2</sup></p>
 ```
 
