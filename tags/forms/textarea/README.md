@@ -50,15 +50,15 @@ no
 ## examples
 
 ```html
-<h3>Default</h3>
+<!-- Default -->
 <textarea></textarea>
 <hr />
 
-<h3>attr: rows and columns</h3>
+<!-- attr: rows and columns -->
 <textarea cols="30" rows="10"></textarea>
 <hr />
 
-<h3>attr: placeholder</h3>
+<!-- attr: placeholder -->
 <textarea
   placeholder="Add your comments here...."
   cols="30"
@@ -66,7 +66,7 @@ no
 ></textarea>
 <hr />
 
-<h3>attr: wrap: soft|hard</h3>
+<!-- attr: wrap: soft|hard -->
 <textarea
   cols="30"
   rows="10"
@@ -75,7 +75,7 @@ no
 ></textarea>
 <hr />
 
-<h3>attr: minlength and maxlength</h3>
+<!-- attr: minlength and maxlength -->
 <textarea cols="30" rows="10" minlength="10" maxlength="50"></textarea>
 <hr />
 ```
