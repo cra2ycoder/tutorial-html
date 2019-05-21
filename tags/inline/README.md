@@ -1,6 +1,6 @@
 ## most re-used
 
-- **br**
+- **break (br)**
 
   - produces a line break in text (carriage-return).
 
@@ -28,7 +28,7 @@
 </button>
 ```
 
-- **abbr**
+- **abbreviation (abbr)**
 
 ```html
 <p>I am learning <abbr title="Hypertext Markup Language">HTML</abbr></p>
@@ -43,7 +43,7 @@
 </code>
 ```
 
-- **kbd**
+- **keyboard (kbd)**
 
 ```html
 <p>please press: <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>ALT</kbd></p>
@@ -55,7 +55,7 @@
 <p>I am learning <mark>HTML</mark></p>
 ```
 
-- **del** + **ins**
+- **delete (del)** + **insert (ins)**
 
 ```html
 <p>I am learning <del>HTML</del> <ins>CSS</ins></p>
@@ -63,7 +63,7 @@
 
 ## rare
 
-- **b** + **i** + **u** + **q** + **s**
+- **bold (b)** + **italic (i)** + **underline (u)** + **quotes (q)** + **strike-through (s)**
 
 ```html
 <p>I am learning <b>HTML</b></p>
@@ -85,7 +85,7 @@
 <p>I am learning <strong>HTML</strong></p>
 ```
 
-- **sub** + **sup**
+- **subscript (sub)** + **superscript (sup)**
 
 ```html
 <p>Water Formula: H<sub>2</sub>O</p>
