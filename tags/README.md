@@ -1,31 +1,20 @@
 # Tags
 
-## HTML Structure
-
 <details>
-  <summary>Html Structure</summary>
-  <div style="padding: 2rem;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html">html</a>
-    <p>about tag</p>
-    <hr />
-  </div>
+    <summary>Html Structure</summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html">html</a>  <p>about tag</p>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head">head</a>  <p>about tag</p>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title">title</a>  <p>about tag</p>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body">body</a>  <p>about tag</p>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base">base</a>  <p>about tag</p>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta">meta</a>  <p>about tag</p>
 </details>
-
-| tag name            | used for |
-| ------------------- | -------- |
-| <a href="">html</a> |          |
-| **head**            |          |
-| **body**            |          |
-| **base**            |          |
-| **meta**            |          |
-
-**reference links:**
-
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 
 ## headings
 
