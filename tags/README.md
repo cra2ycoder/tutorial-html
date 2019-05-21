@@ -1,10 +1,13 @@
 # Tags
 
-<script>
- var url = "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html"
-</script>
-
 ## HTML Structure
+
+<details>
+  <summary>Html Structure</summary>
+  <h6>html</h6>
+  <p>reference link:</p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html">html</a>
+</details>
 
 | tag name            | used for |
 | ------------------- | -------- |
