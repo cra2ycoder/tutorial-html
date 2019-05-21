@@ -2,22 +2,22 @@
 
 ## HTML Structure
 
-| tag name   | used for |
-| ---------- | -------- |
-| **<html>** |          |
-| **<head>** |          |
-| **<body>** |          |
-| **<base>** |          |
-| **<meta>** |          |
+| tag name | used for |
+| -------- | -------- |
+| **html** |          |
+| **head** |          |
+| **body** |          |
+| **base** |          |
+| **meta** |          |
 
 **reference links:**
 
-- [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
-- [head](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
-- [title](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title)
-- [body](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body)
-- [base](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base)
-- [meta](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 
 ## headings
 
