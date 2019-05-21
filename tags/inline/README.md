@@ -1,8 +1,8 @@
-## most re-used
+# most re-used
 
-- **break (br)**
+## break (br)
 
-  - produces a line break in text (carriage-return).
+- produces a line break in text (carriage-return).
 
 ```html
 <p>
@@ -14,12 +14,12 @@
 </p>
 ```
 
-- **span**
+## span
 
-  - inline tag which doesn't have any styles by default
-  - mainly used for customization purpose
-  - when there is no `semantic` tag for our needs then we need to use `span`
-  - to style it, use `class` or `id`
+- inline tag which doesn't have any styles by default
+- mainly used for customization purpose
+- when there is no `semantic` tag for our needs then we need to use `span`
+- to style it, use `class` or `id`
 
 ```html
 <button>
@@ -28,14 +28,14 @@
 </button>
 ```
 
-- **abbreviation (abbr)**
+## abbreviation (abbr)
 
 ```html
 <p>I am learning <abbr title="Hypertext Markup Language">HTML</abbr></p>
 <!-- try hovering the mouse on the HTML text. -->
 ```
 
-- **code**
+## code
 
 ```html
 <code>
@@ -43,27 +43,27 @@
 </code>
 ```
 
-- **keyboard (kbd)**
+## keyboard (kbd)
 
 ```html
 <p>please press: <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>ALT</kbd></p>
 ```
 
-- **mark**
+## mark
 
 ```html
 <p>I am learning <mark>HTML</mark></p>
 ```
 
-- **delete (del)** + **insert (ins)**
+## delete (del) + insert (ins)
 
 ```html
 <p>I am learning <del>HTML</del> <ins>CSS</ins></p>
 ```
 
-## rare
+# rare
 
-- **bold (b)** + **italic (i)** + **underline (u)** + **quotes (q)** + **strike-through (s)**
+## bold (b) + italic (i) + underline (u) + quotes (q) + strike-through (s)
 
 ```html
 <p>I am learning <b>HTML</b></p>
@@ -73,26 +73,26 @@
 <p>I am learning <s>HTML</s></p>
 ```
 
-- **small**
+## small
 
 ```html
 <p><small>I am learning HTML</small></p>
 ```
 
-- **strong**
+## strong
 
 ```html
 <p>I am learning <strong>HTML</strong></p>
 ```
 
-- **subscript (sub)** + **superscript (sup)**
+## subscript (sub) + superscript (sup)
 
 ```html
 <p>Water Formula: H<sub>2</sub>O</p>
 <p>Maths Formula: a<sup>2</sup></p>
 ```
 
-- **time**
+## time
 
 ```html
 <p>
