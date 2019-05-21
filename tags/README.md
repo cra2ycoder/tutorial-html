@@ -2,7 +2,14 @@
 
 ## HTML Structure
 
-- [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
+| tag name | description |
+| -------- | ----------- |
+| html     |             |
+| head     |             |
+| body     |             |
+| base     |             |
+| meta     |             |
+
 - [head](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
 - [title](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title)
 - [body](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body)
