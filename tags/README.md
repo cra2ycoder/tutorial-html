@@ -4,9 +4,11 @@
 
 <details>
   <summary>Html Structure</summary>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html">html</a>
-  <p>about tag</p>
-  <hr />
+  <div style="padding: 2rem;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html">html</a>
+    <p>about tag</p>
+    <hr />
+  </div>
 </details>
 
 | tag name            | used for |
