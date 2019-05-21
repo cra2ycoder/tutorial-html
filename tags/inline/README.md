@@ -1,5 +1,3 @@
-# most re-used
-
 ## break (br)
 
 - produces a line break in text (carriage-return).
@@ -60,8 +58,6 @@
 ```html
 <p>I am learning <del>HTML</del> <ins>CSS</ins></p>
 ```
-
-# rare
 
 ## bold (b) + italic (i) + underline (u) + quotes (q) + strike-through (s)
 
