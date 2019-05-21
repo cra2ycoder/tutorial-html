@@ -88,7 +88,7 @@ none
   <optgroup label="Maruthi">
     <option value="ertiga">Ertiga</option>
     <option value="scross">scross</option>
-    <option value="belano">baleno</option>
+    <option value="baleno">baleno</option>
   </optgroup>
   <optgroup label="hyndai">
     <option value="creta">Creta</option>
