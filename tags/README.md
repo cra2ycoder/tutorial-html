@@ -1,18 +1,21 @@
 # Tags
 
+<script>
+ var url = "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html"
+</script>
+
 ## HTML Structure
 
-| tag name | used for |
-| -------- | -------- |
-| **html** |          |
-| **head** |          |
-| **body** |          |
-| **base** |          |
-| **meta** |          |
+| tag name            | used for |
+| ------------------- | -------- |
+| <a href="">html</a> |          |
+| **head**            |          |
+| **body**            |          |
+| **base**            |          |
+| **meta**            |          |
 
 **reference links:**
 
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body
