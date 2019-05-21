@@ -1,7 +1,7 @@
 # Tags
 
 <details>
-    <summary><b>Html Structure</b></summary>
+    <summary><b>html structure</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html">html</a>
     <p>about tag</p>
@@ -25,7 +25,7 @@
 ---
 
 <details>
-    <summary><b>Headings</b></summary>
+    <summary><b>headings</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements">h1-h6</a>
     <p>about tag</p>
@@ -227,72 +227,169 @@
 
 ---
 
-## Interactive
+<details>
+    <summary><b>interactive</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details">details</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary">summary</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog">dialog</a>
+    <p>about tag</p>
+    <br />
+</details>
 
-- [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
-- [summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
-- [dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
+---
 
-## Layout
+<details>
+    <summary><b>layout</b></summary>
+    <br/>
+    <h4>sections</h4>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header">header</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer">footer</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main">main</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav">nav</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section">section</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article">article</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address">address</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside">aside</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup">hgroup</a>
+    <p>about tag</p>
+    <br />
+    <h4>blocks</h4>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div">div</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">blockquote</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl">dl</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd">dd</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt">dt</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre">pre</a>
+    <p>about tag</p>
+    <br />
+    <h4>table</h4>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table">table</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead">thead</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot">tfoot</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody">tbody</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption">caption</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/col">col</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup">colgroup</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr">tr</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th">th</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td">td</a>
+    <p>about tag</p>
+    <br />
+</details>
 
-- **Sections**
+---
 
-  - [header](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
-  - [footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
-  - [main](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
-  - [nav](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
-  - [section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
-  - [article](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
-  - [address](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address)
-  - [aside](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
-  - [hgroup](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup)
+<details>
+    <summary><b>styling</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style">style</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link">link</a>
+    <p>about tag</p>
+    <br />
+</details>
 
-- **Blocks**
+---
 
-  - [div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
-  - [blockquote](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote)
-  - [dl](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)
-  - [dd](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd)
-  - [dt](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt)
-  - [pre](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
+<details>
+    <summary><b>scripting</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas">canvas</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript">noscript</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script">script</a>
+    <p>about tag</p>
+    <br />
+</details>
 
-- **Table**
+---
 
-  - [table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
-  - [thead](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead)
-  - [tfoot](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot)
-  - [tbody](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody)
-  - [caption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption)
-  - [col](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/col)
-  - [colgroup](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup)
-  - [tr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr)
-  - [th](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th)
-  - [td](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td)
+<details>
+    <summary><b>embedded content</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe">iframe</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object">object</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/param">param</a>
+    <p>about tag</p>
+    <br />
+</details>
 
-## Styling
+---
 
-- [style](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style)
-- [link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link)
+<details>
+    <summary><b>web components</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template">template</a>
+    <p>about tag</p>
+</details>
 
-## Scripting
+---
 
-- [canvas](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas)
-- [noscript](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript)
-- [script](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script)
+<details>
+    <summary><b>experimental technology (coming soon...)</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menu">menu</a>
+    <p>about tag</p>
+</details>
 
-## Embedded content
-
-- [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
-- [object](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object)
-- [param](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/param)
-
-## Web Components
-
-- [template](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
-
-## experimental technology (coming soon...)
-
-- [menu](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menu)
+---
 
 ## For Browser Support Checking
 
