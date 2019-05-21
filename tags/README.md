@@ -22,6 +22,8 @@
     <p>about tag</p>
 </details>
 
+---
+
 <details>
     <summary><b>Headings</b></summary>
     <br/>
@@ -29,6 +31,8 @@
     <p>about tag</p>
     <br/>
 </details>
+
+---
 
 <details>
     <summary><b>paragraph</b></summary>
@@ -38,6 +42,8 @@
     <br/>
 </details>
 
+---
+
 <details>
     <summary><b>anchor</b></summary>
     <br/>
@@ -45,6 +51,8 @@
     <p>about tag</p>
     <br/>
 </details>
+
+---
 
 <details>
     <summary><b>image</b></summary>
@@ -60,6 +68,8 @@
     <br/>
 </details>
 
+---
+
 <details>
     <summary><b>figure</b></summary>
     <br/>
@@ -70,6 +80,8 @@
     <p>about tag</p>
     <br/>
 </details>
+
+---
 
 <details>
     <summary><b>picture</b></summary>
@@ -82,56 +94,138 @@
     <br/>
 </details>
 
-## List
+---
 
-- [ul](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
-- [ol](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
-- [li](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
+<details>
+    <summary><b>list</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul">ul</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol">ol</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li">li</a>
+    <p>about tag</p>
+    <br />
+</details>
 
-## Media
+---
 
-- [audio](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
-- [video](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
-- [track](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track)
+<details>
+    <summary><b>media</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio">audio</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video">video</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track">track</a>
+    <p>about tag</p>
+    <br />
+</details>
 
-## Forms
+---
 
-- [form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
-- [button](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
-- [input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
-- [label](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
-- [textarea](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
-- [select](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
-- [option](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option)
-- [datalist](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
-- [progress](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress)
-- [fieldset](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset)
-- [legend](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend)
+<details>
+    <summary><b>forms</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form">form</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button">button</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input">input</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label">label</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea">textarea</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select">select</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option">option</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist">datalist</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress">progress</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset">fieldset</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend">legend</a>
+    <p>about tag</p>
+    <br />
+</details>
 
-## Inline
+---
 
-**most re-used**
+<details>
+    <summary><b>inline</b></summary>
+    <br/>
+    <h4>most re-used</h4>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br">br</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span">span</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr">abbr</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code">code</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd">kbd</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark">mark</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del">del</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins">ins</a>
+    <p>about tag</p>
+    <br />
+    <h4>rare</h4>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/b">b</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i">i</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/u">u</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q">q</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/s">s</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small">small</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong">strong</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub">sub</a>
+    <p>about tag</p>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time">time</a><p>about tag</p>
+    <br />
+</details>
 
-- [br](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br)
-- [span](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
-- [abbr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr)
-- [code](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code)
-- [kbd](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd)
-- [mark](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark)
-- [del](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del)
-- [ins](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins)
-
-**rare**
-
-- [b](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/b)
-- [i](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)
-- [u](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/u)
-- [q](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q)
-- [s](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/s)
-- [small](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small)
-- [strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
-- [sub](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub)
-- [time](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
+---
 
 ## Interactive
 
