@@ -1,22 +1,25 @@
 # Tags
 
+## HTML Structure
+
+- [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
+- [head](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
+- [title](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title)
+- [body](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body)
+- [base](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base)
+- [meta](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
+
 ## headings
 
 - [h1-h6](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
-
----
 
 ## paragraph
 
 - [p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
 
----
-
 ## anchor
 
 - [a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
-
----
 
 ## image
 
@@ -24,21 +27,15 @@
 - [map](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/map)
 - [area](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/area)
 
----
-
 ## figure
 
 - [figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 - [figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption)
 
----
-
 ## picture
 
 - [picture](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 - [source](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source)
-
----
 
 ## List
 
@@ -46,15 +43,11 @@
 - [ol](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 - [li](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
 
----
-
 ## Media
 
 - [audio](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
 - [video](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
 - [track](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track)
-
----
 
 ## Forms
 
@@ -70,34 +63,7 @@
 - [fieldset](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset)
 - [legend](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend)
 
----
-
-## Sections (For Layout Specific)
-
-- [header](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
-- [footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
-- [main](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
-- [nav](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
-- [section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
-- [article](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
-- [address](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address)
-- [aside](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
-- [hgroup](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup)
-
----
-
-## Text content (For blocks)
-
-- [div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
-- [blockquote](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote)
-- [dl](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)
-- [dd](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd)
-- [dt](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt)
-- [pre](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
-
----
-
-## Inline Content
+## Inline
 
 **most re-used**
 
@@ -107,6 +73,8 @@
 - [code](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code)
 - [kbd](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd)
 - [mark](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark)
+- [del](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del)
+- [ins](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins)
 
 **rare**
 
@@ -120,15 +88,52 @@
 - [sub](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub)
 - [time](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
 
----
+## Interactive
 
-## Embedded content
+- [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+- [summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
+- [dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 
-- [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
-- [object](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object)
-- [param](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/param)
+## Layout
 
----
+- **Sections**
+
+  - [header](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
+  - [footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
+  - [main](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
+  - [nav](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+  - [section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
+  - [article](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
+  - [address](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address)
+  - [aside](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
+  - [hgroup](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup)
+
+- **Blocks**
+
+  - [div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
+  - [blockquote](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote)
+  - [dl](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)
+  - [dd](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd)
+  - [dt](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt)
+  - [pre](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
+
+- **Table**
+
+  - [table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
+  - [thead](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead)
+  - [tfoot](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot)
+  - [tbody](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody)
+  - [caption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption)
+  - [col](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/col)
+  - [colgroup](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup)
+  - [tr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr)
+  - [th](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th)
+  - [td](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td)
+
+## Styling
+
+- [style](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style)
+- [link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link)
 
 ## Scripting
 
@@ -136,61 +141,15 @@
 - [noscript](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript)
 - [script](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script)
 
----
+## Embedded content
 
-## Styling
-
-- [style](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style)
-- [link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link)
-
----
-
-## Demarcating edits
-
-- [del](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del)
-- [ins](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins)
-
----
-
-## Table content
-
-- [table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
-- [thead](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead)
-- [tfoot](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot)
-- [tbody](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody)
-- [caption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption)
-- [col](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/col)
-- [colgroup](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup)
-- [tr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr)
-- [th](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th)
-- [td](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td)
-
----
-
-## Interactive elements
-
-- [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
-- [summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
-- [dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
-
----
+- [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
+- [object](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object)
+- [param](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/param)
 
 ## Web Components
 
 - [template](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
-
----
-
-## HTML Structure
-
-- [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
-- [head](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
-- [title](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title)
-- [body](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body)
-- [base](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base)
-- [meta](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
-
----
 
 ## experimental technology (coming soon...)
 
