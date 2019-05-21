@@ -221,6 +221,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub">sub</a>
     <p>about tag</p>
     <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sup">sup</a>
+    <p>about tag</p>
+    <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time">time</a><p>about tag</p>
     <br />
 </details>

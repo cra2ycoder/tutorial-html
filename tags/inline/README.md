@@ -43,4 +43,5 @@
 - **small**
 - **strong**
 - **sub**
+- **sup**
 - **time**
