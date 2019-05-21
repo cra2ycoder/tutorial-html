@@ -88,6 +88,27 @@
 
 ## Inline Content
 
+**most re-used**
+
+- [<br>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br)
+- [<span>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
+- [<abbr>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr)
+- [<code>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code)
+- [<kbd>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd)
+- [<mark>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark)
+
+**rare**
+
+- [<b>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/b)
+- [<i>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)
+- [<u>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/u)
+- [<q>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q)
+- [<s>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/s)
+- [<small>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small)
+- [<strong>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
+- [<sub>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub)
+- [<time>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
+
 ## For Browser Support Checking
 
 https://caniuse.com/
