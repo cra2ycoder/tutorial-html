@@ -10,13 +10,26 @@
     <p>contains machine-readable information (metadata) about the document, like its title, scripts, and style sheets.</p>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title">title</a>
-    <p>defines the document's title that is shown in a browser's title bar or a page's tab. It only contains text and tags within the element are ignored.</p>
+    <ul>
+        <li>defines the document's title</li>
+        <li>title shown in a browser's title bar or a page's tab.</li>
+        <li>contains only text</li>
+        <li>tags within the element are ignored.</li>
+    </ul>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body">body</a>
-    <p>represents the content of an HTML document. There can be only one <body> element in a document.</p>
+    <p></p>
+    <ul>
+        <li>represents the content of an HTML document.</li>
+        <li>can be only one body element in a document.</li>
+    </ul>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base">base</a>
-    <p>specifies the base URL to use for all relative URLs contained within a document. There can be only one <base> element in a document.</p>
+    <ul>
+        <li>specifies the base URL</li>
+        <li>used for all relative URLs contained within a document.</li>
+        <li>there can be only one base element in a document.</li>
+    </ul>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta">meta</a>
     <p>represents metadata that cannot be represented by other HTML meta-related elements, like base, link, script, style or title.</p>
@@ -87,7 +100,6 @@
         <li>used to provide versions of an image for different display/device scenarios.</li>
         <li>Browser will consider the best match from source list and load accordingly</li>
         <li>If no matches are found from the source tag then it will load the default image tag source (src)</li>
-        <li></li>
     </ul>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source">source</a>
