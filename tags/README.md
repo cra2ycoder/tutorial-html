@@ -48,7 +48,7 @@
     <summary><b>anchor</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a">a</a>
-    <p>about tag</p>
+    <p>creates a hyperlink to other web pages, files, locations within the same page, email addresses, or any other URL.</p>
     <br/>
 </details>
 
