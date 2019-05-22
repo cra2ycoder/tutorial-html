@@ -13,13 +13,13 @@
     <p>defines the document's title that is shown in a browser's title bar or a page's tab. It only contains text and tags within the element are ignored.</p>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body">body</a>
-    <p>about tag</p>
+    <p>represents the content of an HTML document. There can be only one <body> element in a document.</p>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base">base</a>
-    <p>about tag</p>
+    <p>specifies the base URL to use for all relative URLs contained within a document. There can be only one <base> element in a document.</p>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta">meta</a>
-    <p>about tag</p>
+    <p>represents metadata that cannot be represented by other HTML meta-related elements, like <base>, <link>, <script>, <style> or <title>.</p>
 </details>
 
 ---
