@@ -70,11 +70,10 @@
     <summary><b>figure</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure">figure</a>
-    <p>about tag</p>
+    <p>represents self-contained content with an optional caption, which is specified using the (figcaption) element. The figure, its caption, and its contents are referenced as a single unit.</p>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption">figcaption</a>
-    <p>about tag</p>
-    <br/>
+    <p>represents a caption or legend of its parent figure element.</p>
 </details>
 
 ---
