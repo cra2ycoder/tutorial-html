@@ -28,7 +28,7 @@
     <summary><b>headings</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements">h1-h6</a>
-    <p>about tag</p>
+    <p>represent six levels of section headings. h1 is the highest section level and h6 is the lowest.</p>
     <br/>
 </details>
 
