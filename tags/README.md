@@ -38,7 +38,7 @@
     <summary><b>paragraph</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p">p</a>
-    <p>about tag</p>
+    <p>represents a paragraph</p>
     <br/>
 </details>
 
