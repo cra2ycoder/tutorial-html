@@ -19,7 +19,7 @@
     <p>specifies the base URL to use for all relative URLs contained within a document. There can be only one <base> element in a document.</p>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta">meta</a>
-    <p>represents metadata that cannot be represented by other HTML meta-related elements, like <base>, <link>, <script>, <style> or <title>.</p>
+    <p>represents metadata that cannot be represented by other HTML meta-related elements, like base, link, script, style or title.</p>
 </details>
 
 ---
