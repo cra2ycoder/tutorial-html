@@ -29,7 +29,6 @@
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements">h1-h6</a>
     <p>represent six levels of section headings. h1 is the highest section level and h6 is the lowest.</p>
-    <br/>
 </details>
 
 ---
@@ -39,7 +38,6 @@
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p">p</a>
     <p>represents a paragraph</p>
-    <br/>
 </details>
 
 ---
@@ -49,7 +47,6 @@
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a">a</a>
     <p>creates a hyperlink to other web pages, files, locations within the same page, email addresses, or any other URL.</p>
-    <br/>
 </details>
 
 ---
@@ -58,14 +55,13 @@
     <summary><b>image</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img">img</a>
-    <p>about tag</p>
+    <p>embeds an image into the document.</p>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/map">map</a>
-    <p>about tag</p>
+    <p>used with area elements to define an image map (a clickable link area).</p>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/area">area</a>
-    <p>about tag</p>
-    <br/>
+    <p>defines a hot-spot region on an image, and optionally associates it with a hypertext link. This element is used only within a <map> element.</p>
 </details>
 
 ---
