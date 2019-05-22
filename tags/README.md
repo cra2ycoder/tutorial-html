@@ -82,11 +82,10 @@
     <summary><b>picture</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture">picture</a>
-    <p>about tag</p>
+    <p>contains zero or more source elements and one img element to provide versions of an image for different display/device scenarios. The browser will consider each child source element and choose the best match among them; if no matches are found,the URL of the img element's src attribute is selected. The selected image is then presented in the space occupied by the img element.</p>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source">source</a>
-    <p>about tag</p>
-    <br/>
+    <p>specifies multiple media resources for the picture, the audio element, or the video element. It is an empty element, meaning that it has no content and does not have a closing tag. It is commonly used to serve the same media content in multiple formats supported by different browsers.</p>
 </details>
 
 ---
