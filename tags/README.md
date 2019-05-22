@@ -4,13 +4,13 @@
     <summary><b>html structure</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html">html</a>
-    <p>about tag</p>
+    <p>root (top-level element) of an HTML document</p>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head">head</a>
-    <p>about tag</p>
+    <p>contains machine-readable information (metadata) about the document, like its title, scripts, and style sheets.</p>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title">title</a>
-    <p>about tag</p>
+    <p>defines the document's title that is shown in a browser's title bar or a page's tab. It only contains text and tags within the element are ignored.</p>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body">body</a>
     <p>about tag</p>
