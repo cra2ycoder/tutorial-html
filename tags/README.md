@@ -290,9 +290,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address">address</a>
     <p>about tag</p>
     <br />
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup">hgroup</a>
-    <p>about tag</p>
-    <br />
     <h4>blocks</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div">div</a>
     <p>about tag</p>
