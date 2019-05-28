@@ -407,6 +407,44 @@
 
 ---
 
+<details>
+    <summary><b>Vector Graphics</b></summary>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web">Overview</a>
+    <br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Getting_Started">Getting Started</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Positions">Positions</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes">Basic Shapes</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths">Paths</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Fills_and_Strokes">Fills and Strokes</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Gradients">Gradients</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Patterns">Patterns</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts">Texts</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Transformations">Basic Transformations</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Clipping_and_masking">Clipping and masking</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Other_content_in_SVG">Other content in SVG</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Filter_effects">Filter effects</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/SVG_Fonts">SVG Fonts</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/SVG_Image_Tag">SVG Image Tag</a>
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Tools_for_SVG">Tools for SVG</a>
+</details>
+
+---
+
 ## For validating HTML
 
 **using site:**
