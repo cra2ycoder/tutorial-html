@@ -407,6 +407,16 @@
 
 ---
 
+## For validating HTML
+
+**using site:**
+
+https://validator.w3.org/nu
+
+**using chrome extension:**
+
+https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en
+
 ## For Browser Support Checking
 
 https://caniuse.com/
