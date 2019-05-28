@@ -408,7 +408,7 @@
 ---
 
 <details>
-    <summary><b>Vector Graphics</b></summary>
+    <summary><b>vector graphics(svg)</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web">Overview</a>
     <br/>
