@@ -116,13 +116,22 @@
     <summary><b>list</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul">ul</a>
-    <p>about tag</p>
+    <ul>
+        <li>represents an unordered list of items</li>
+        <li>typically rendered as a bulleted list.</li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol">ol</a>
-    <p>about tag</p>
+    <ul>
+        <li>represents an ordered list of items</li>
+        <li>typically rendered as a numbered list.</li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li">li</a>
-    <p>about tag</p>
+    <ul>
+        <li>used to represent an item in a list.</li>
+        <li>It must be contained in a parent element: an ordered list (ol), an unordered list (ul), or a menu (menu).</li>
+    </ul>
     <br />
 </details>
 
