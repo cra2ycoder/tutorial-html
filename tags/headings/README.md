@@ -1,16 +1,15 @@
 ## Heading
 
-| Property              | Description            |
-| --------------------- | ---------------------- |
-| Tag name              | h1, h2, h3, h4, h5, h6 |
-| Required attributes   | none                   |
-| Optional attributes   | global                 |
-| Has close tag?        | yes                    |
-| Is group tag?         | no                     |
-| Child tags            | none                   |
-| Element type          | block-level            |
-| Has default styles?   | yes                    |
-| Permitted parent tags | can be any             |
+| Property            | Description            |
+| ------------------- | ---------------------- |
+| Tag name            | h1, h2, h3, h4, h5, h6 |
+| Required attributes | none                   |
+| Optional attributes | global                 |
+| Has close tag?      | yes                    |
+| Is group tag?       | no                     |
+| Child tags          | none                   |
+| Element type        | block-level            |
+| Has default styles? | yes                    |
 
 ---
 

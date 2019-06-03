@@ -1,16 +1,15 @@
 ## Progress
 
-| Property              | Description |
-| --------------------- | ----------- |
-| Tag name              | progress    |
-| Required attributes   | max, value  |
-| Optional attributes   | global      |
-| Has close tag?        | yes         |
-| Is group tag?         | no          |
-| Child tags            | no          |
-| Element type          | inline      |
-| Has default styles?   | yes         |
-| Permitted parent tags | can be any  |
+| Property            | Description |
+| ------------------- | ----------- |
+| Tag name            | progress    |
+| Required attributes | max, value  |
+| Optional attributes | global      |
+| Has close tag?      | yes         |
+| Is group tag?       | no          |
+| Child tags          | no          |
+| Element type        | inline      |
+| Has default styles? | yes         |
 
 ---
 

@@ -1,16 +1,15 @@
 ## Image
 
-| Property              | Description  |
-| --------------------- | ------------ |
-| Tag name              | img          |
-| Required attributes   | src          |
-| Optional attributes   | global       |
-| Has close tag?        | no           |
-| Is group tag?         | no           |
-| Child tags            | none         |
-| Element type          | inline-level |
-| Has default styles?   | no           |
-| Permitted parent tags | can be any   |
+| Property            | Description  |
+| ------------------- | ------------ |
+| Tag name            | img          |
+| Required attributes | src          |
+| Optional attributes | global       |
+| Has close tag?      | no           |
+| Is group tag?       | no           |
+| Child tags          | none         |
+| Element type        | inline-level |
+| Has default styles? | no           |
 
 ---
 

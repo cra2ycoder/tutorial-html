@@ -1,16 +1,15 @@
 ## Select
 
-| Property              | Description      |
-| --------------------- | ---------------- |
-| Tag name              | select           |
-| Required attributes   | -                |
-| Optional attributes   | size, multiple   |
-| Has close tag?        | yes              |
-| Is group tag?         | yes              |
-| Child tags            | option, optgroup |
-| Element type          | inline           |
-| Has default styles?   | yes              |
-| Permitted parent tags | can be any       |
+| Property            | Description      |
+| ------------------- | ---------------- |
+| Tag name            | select           |
+| Required attributes | -                |
+| Optional attributes | size, multiple   |
+| Has close tag?      | yes              |
+| Is group tag?       | yes              |
+| Child tags          | option, optgroup |
+| Element type        | inline           |
+| Has default styles? | yes              |
 
 ---
 

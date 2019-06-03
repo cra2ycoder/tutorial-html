@@ -1,16 +1,15 @@
 ## Unordered list
 
-| Property              | Description |
-| --------------------- | ----------- |
-| Tag name              | ul          |
-| Required attributes   | none        |
-| Optional attributes   | global      |
-| Has close tag?        | yes         |
-| Is group tag?         | yes         |
-| Child tags            | li          |
-| Element type          | block       |
-| Has default styles?   | yes         |
-| Permitted parent tags | can be any  |
+| Property            | Description |
+| ------------------- | ----------- |
+| Tag name            | ul          |
+| Required attributes | none        |
+| Optional attributes | global      |
+| Has close tag?      | yes         |
+| Is group tag?       | yes         |
+| Child tags          | li          |
+| Element type        | block       |
+| Has default styles? | yes         |
 
 ---
 

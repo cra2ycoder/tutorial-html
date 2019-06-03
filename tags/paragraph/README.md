@@ -1,16 +1,15 @@
 # Paragraph
 
-| Property              | Description |
-| --------------------- | ----------- |
-| Tag name              | p           |
-| Required attributes   | none        |
-| Optional attributes   | global      |
-| Has close tag?        | yes         |
-| Is group tag?         | no          |
-| Child tags            | none        |
-| Element type          | block-level |
-| Has default styles?   | yes         |
-| Permitted parent tags | can be any  |
+| Property            | Description |
+| ------------------- | ----------- |
+| Tag name            | p           |
+| Required attributes | none        |
+| Optional attributes | global      |
+| Has close tag?      | yes         |
+| Is group tag?       | no          |
+| Child tags          | none        |
+| Element type        | block-level |
+| Has default styles? | yes         |
 
 **description**
 

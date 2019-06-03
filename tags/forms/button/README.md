@@ -1,16 +1,15 @@
 ## Button
 
-| Property              | Description             |
-| --------------------- | ----------------------- |
-| Tag name              | button                  |
-| Required attributes   | type/name/value         |
-| Optional attributes   | autofocus/disabled      |
-| Has close tag?        | yes                     |
-| Is group tag?         | no                      |
-| Child tags            | no                      |
-| Element type          | inline                  |
-| Has default styles?   | yes                     |
-| Permitted parent tags | form (semantic purpose) |
+| Property            | Description        |
+| ------------------- | ------------------ |
+| Tag name            | button             |
+| Required attributes | type/name/value    |
+| Optional attributes | autofocus/disabled |
+| Has close tag?      | yes                |
+| Is group tag?       | no                 |
+| Child tags          | no                 |
+| Element type        | inline             |
+| Has default styles? | yes                |
 
 ---
 

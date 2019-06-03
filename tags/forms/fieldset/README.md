@@ -1,16 +1,15 @@
 ## Fieldset
 
-| Property              | Description |
-| --------------------- | ----------- |
-| Tag name              | fieldset    |
-| Required attributes   | -           |
-| Optional attributes   | global      |
-| Has close tag?        | yes         |
-| Is group tag?         | yes         |
-| Child tags            | legend      |
-| Element type          | block       |
-| Has default styles?   | yes         |
-| Permitted parent tags | can be any  |
+| Property            | Description |
+| ------------------- | ----------- |
+| Tag name            | fieldset    |
+| Required attributes | -           |
+| Optional attributes | global      |
+| Has close tag?      | yes         |
+| Is group tag?       | yes         |
+| Child tags          | legend      |
+| Element type        | block       |
+| Has default styles? | yes         |
 
 ---
 

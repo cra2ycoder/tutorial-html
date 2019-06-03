@@ -1,16 +1,15 @@
 ## Textarea
 
-| Property              | Description |
-| --------------------- | ----------- |
-| Tag name              | textarea    |
-| Required attributes   | rows, cols, |
-| Optional attributes   | wrap        |
-| Has close tag?        | yes         |
-| Is group tag?         | no          |
-| Child tags            | no          |
-| Element type          | inline      |
-| Has default styles?   | yes         |
-| Permitted parent tags | can be any  |
+| Property            | Description |
+| ------------------- | ----------- |
+| Tag name            | textarea    |
+| Required attributes | rows, cols, |
+| Optional attributes | wrap        |
+| Has close tag?      | yes         |
+| Is group tag?       | no          |
+| Child tags          | no          |
+| Element type        | inline      |
+| Has default styles? | yes         |
 
 ---
 

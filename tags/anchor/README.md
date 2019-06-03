@@ -1,16 +1,15 @@
 ## Anchor
 
-| Property              | Description                     |
-| --------------------- | ------------------------------- |
-| Tag name              | a                               |
-| Required attributes   | href                            |
-| Optional attributes   | global                          |
-| Has close tag?        | yes                             |
-| Is group tag?         | no                              |
-| Child tags            | none                            |
-| Element type          | Inline-level                    |
-| Has default styles?   | yes, if only there is a content |
-| Permitted parent tags | can be any except same tag      |
+| Property            | Description                     |
+| ------------------- | ------------------------------- |
+| Tag name            | a                               |
+| Required attributes | href                            |
+| Optional attributes | global                          |
+| Has close tag?      | yes                             |
+| Is group tag?       | no                              |
+| Child tags          | none                            |
+| Element type        | Inline-level                    |
+| Has default styles? | yes, if only there is a content |
 
 ---
 

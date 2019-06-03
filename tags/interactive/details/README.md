@@ -1,16 +1,15 @@
 ## Details
 
-| Property              | Description |
-| --------------------- | ----------- |
-| Tag name              | details     |
-| Required attributes   | no          |
-| Optional attributes   | global      |
-| Has close tag?        | yes         |
-| Is group tag?         | yes         |
-| Child tags            | summary     |
-| Element type          | block       |
-| Has default styles?   | yes         |
-| Permitted parent tags | can be any  |
+| Property            | Description |
+| ------------------- | ----------- |
+| Tag name            | details     |
+| Required attributes | no          |
+| Optional attributes | global      |
+| Has close tag?      | yes         |
+| Is group tag?       | yes         |
+| Child tags          | summary     |
+| Element type        | block       |
+| Has default styles? | yes         |
 
 ---
 

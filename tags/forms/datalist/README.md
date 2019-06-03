@@ -1,16 +1,15 @@
 ## datalist
 
-| Property              | Description |
-| --------------------- | ----------- |
-| Tag name              | datalist    |
-| Required attributes   | id          |
-| Optional attributes   | global      |
-| Has close tag?        | yes         |
-| Is group tag?         | yes         |
-| Child tags            | option      |
-| Element type          | inline      |
-| Has default styles?   | yes         |
-| Permitted parent tags | can be any  |
+| Property            | Description |
+| ------------------- | ----------- |
+| Tag name            | datalist    |
+| Required attributes | id          |
+| Optional attributes | global      |
+| Has close tag?      | yes         |
+| Is group tag?       | yes         |
+| Child tags          | option      |
+| Element type        | inline      |
+| Has default styles? | yes         |
 
 ---
 

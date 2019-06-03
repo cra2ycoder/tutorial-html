@@ -1,16 +1,15 @@
 ## Audio
 
-| Property              | Description    |
-| --------------------- | -------------- |
-| Tag name              | audio          |
-| Required attributes   | src, controls  |
-| Optional attributes   | global         |
-| Has close tag?        | yes            |
-| Is group tag?         | yes (optional) |
-| Child tags            | source         |
-| Element type          | inline         |
-| Has default styles?   | yes            |
-| Permitted parent tags | can be any     |
+| Property            | Description    |
+| ------------------- | -------------- |
+| Tag name            | audio          |
+| Required attributes | src, controls  |
+| Optional attributes | global         |
+| Has close tag?      | yes            |
+| Is group tag?       | yes (optional) |
+| Child tags          | source         |
+| Element type        | inline         |
+| Has default styles? | yes            |
 
 ---
 
