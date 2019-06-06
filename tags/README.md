@@ -450,102 +450,56 @@
     <h4>table</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table">table</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents tabular data — that is, information presented in a two-dimensional table comprised of rows and columns of cells containing data</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead">thead</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>defines a set of rows defining the head of the columns of the table.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot">tfoot</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>defines a set of rows summarizing the columns of the table.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody">tbody</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>encapsulates a set of table rows (tr elements), indicating that they comprise the body of the table.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption">caption</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>specifies the caption (or title) of a table, and if used is always the first child of a table.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/col">col</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>defines a column within a table and is used for defining common semantics on all common cells.</li>
+        <li>It is generally found within a colgroup element</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup">colgroup</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>defines a group of columns within a table.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr">tr</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>defines a row of cells in a table.</li>
+        <li>The row's cells can then be established using a mix of td (data cell) and th (header cell) elements.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th">th</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>defines a cell as header of a group of table cells</li>
+        <li>he exact nature of this group is defined by the scope and headers attributes.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td">td</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>defines a cell of a table that contains data.</li>
+        <li>It participates in the table model.</li>
     </ul>
     <br />
 </details>
