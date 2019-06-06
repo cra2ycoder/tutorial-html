@@ -31,5 +31,6 @@ They are:
 <br>, <button>, <canvas>, <cite>, <code>, <data>, <datalist>, <del>, <dfn>, <em>, <embed>
 <i>, <iframe>, <img>, <input>, <ins>, <kbd>, <label>, <map>, <mark>, <meter>, <noscript>
 <object>, <output>, <picture>, <progress>, <q>, <ruby>, <s>, <samp>, <script>, <select>
-<slot>, <small>, <span>, <strong>, <sub>, <sup>, <svg>, <template>, <textarea>, <time>, <u>,<tt>, <var>, <video>, <wbr>
+<slot>, <small>, <span>, <strong>, <sub>, <sup>, <svg>, <template>, <textarea>, <time>,
+<u>,<tt>, <var>, <video>, <wbr>
 ```
