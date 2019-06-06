@@ -237,82 +237,47 @@
     <h4>most re-used</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br">br</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>produces a line break in text (carriage-return).</li>
+        <li>It is useful for writing a poem or an address, where the division of lines is significant.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span">span</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>It is a generic inline container for phrasing content, which does not inherently represent anything.</li>
+        <li>It should be used only when no other semantic element is appropriate.</li>
+        <li>span is very much like a div element.</li>
+        <li>div is a block-level element whereas a span is an inline element.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr">abbr</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents an abbreviation or acronym</li>
+        <li>the optional title attribute can provide an expansion or description for the abbreviation.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code">code</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>displays its contents styled in a fashion intended to indicate that the text is a short fragment of computer code</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd">kbd</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a span of inline text denoting textual user input from a keyboard, voice input, or any other text entry device</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark">mark</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents text which is marked or highlighted for reference or notation purposes</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del">del</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a range of text that has been deleted from a document</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins">ins</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a range of text that has been added to a document</li>
     </ul>
     <br />
     <h4>rare</h4>
