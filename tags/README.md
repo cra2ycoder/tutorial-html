@@ -141,13 +141,34 @@
     <summary><b>media</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio">audio</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video">video</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track">track</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
 </details>
 
@@ -157,37 +178,114 @@
     <summary><b>forms</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form">form</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button">button</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input">input</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label">label</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea">textarea</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select">select</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option">option</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist">datalist</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress">progress</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset">fieldset</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend">legend</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
 </details>
 
@@ -198,58 +296,184 @@
     <br/>
     <h4>most re-used</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br">br</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span">span</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr">abbr</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code">code</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd">kbd</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark">mark</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del">del</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins">ins</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <h4>rare</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/b">b</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i">i</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/u">u</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q">q</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/s">s</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small">small</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong">strong</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub">sub</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sup">sup</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time">time</a><p>about tag</p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time">time</a><ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
 </details>
 
@@ -259,13 +483,34 @@
     <summary><b>interactive</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details">details</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary">summary</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog">dialog</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
 </details>
 
@@ -276,78 +521,246 @@
     <br/>
     <h4>sections</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header">header</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer">footer</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main">main</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav">nav</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section">section</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article">article</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside">aside</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address">address</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <h4>blocks</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div">div</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">blockquote</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl">dl</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd">dd</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt">dt</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre">pre</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <h4>table</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table">table</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead">thead</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot">tfoot</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody">tbody</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption">caption</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/col">col</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup">colgroup</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr">tr</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th">th</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td">td</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
 </details>
 
@@ -357,10 +770,24 @@
     <summary><b>styling</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style">style</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link">link</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
 </details>
 
@@ -370,13 +797,34 @@
     <summary><b>scripting</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas">canvas</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript">noscript</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script">script</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
 </details>
 
@@ -386,13 +834,34 @@
     <summary><b>embedded content</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe">iframe</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object">object</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/param">param</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     <br />
 </details>
 
@@ -402,7 +871,14 @@
     <summary><b>web components</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template">template</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
 </details>
 
 ---
@@ -411,7 +887,14 @@
     <summary><b>experimental technology (coming soon...)</b></summary>
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menu">menu</a>
-    <p>about tag</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
 </details>
 
 ---
