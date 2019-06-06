@@ -142,32 +142,23 @@
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio">audio</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>used to embed sound content in documents</li>
+        <li>It may contain one or more audio sources, represented using the src attribute or the source element</li>
+        <li>The browser will choose the most suitable one. </li>
+        <li>It can also be the destination for streamed media, using a MediaStream.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video">video</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Embeds a media player which supports video playback into the document.</li>
+        <li>You can use video for audio content as well, but the audio element may provide a more appropriate user experience.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track">track</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Used as a child of the media elements audio and video</li>
+        <li>It lets you specify timed text tracks (or time-based data), for example to automatically handle subtitles.</li>
+        <li>The tracks are formatted in WebVTT format (.vtt files) — Web Video Text Tracks or Timed Text Markup Language (TTML).</li>
     </ul>
     <br />
 </details>
