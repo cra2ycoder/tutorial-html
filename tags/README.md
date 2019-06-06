@@ -368,82 +368,48 @@
     <h4>sections</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header">header</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents introductory content, typically a group of introductory or navigational aids.</li>
+        <li>It may contain some heading elements but also a logo, a search form, an author name, and other elements.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer">footer</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a footer for its nearest sectioning content or sectioning root element.</li>
+        <li>A footer typically contains information about the author of the section, copyright data or links to related documents.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main">main</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents the dominant content of the body of a document</li>
+        <li>The main content area consists of content that is directly related to or expands upon the central topic of a document, or the central functionality of an application</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav">nav</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a section of a page whose purpose is to provide navigation links</li>
+        <li>Examples: navigation sections are menus, tables of contents, and indexes</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section">section</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a standalone section — which doesn't have a more specific semantic element to represent it — contained within an HTML document</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article">article</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable</li>
+        <li>Examples: a forum post, a magazine or newspaper article, or a blog entry.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside">aside</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a portion of a document whose content is only indirectly related to the document's main content</li>
+        <li>Asides are frequently presented as sidebars or call-out boxes.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address">address</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>indicates that the enclosed HTML provides contact information for a person or people, or for an organization.</li>
     </ul>
     <br />
     <h4>blocks</h4>
