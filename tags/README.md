@@ -577,12 +577,7 @@
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template">template</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>It is a mechanism for holding HTML that is not to be rendered immediately when a page is loaded but may be instantiated subsequently during runtime using JavaScript.</li>
     </ul>
 </details>
 
@@ -593,12 +588,8 @@
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menu">menu</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a group of commands that a user can perform or activate</li>
+        <li>This includes both list menus, which might appear across the top of a screen, as well as context menus, such as those that might appear underneath a button after it has been clicked.</li>
     </ul>
 </details>
 
