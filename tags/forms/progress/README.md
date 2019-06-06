@@ -18,12 +18,6 @@
 - displays an indicator showing the completion progress of a task
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress
 
-**Tag omissions**
-
-```
-none
-```
-
 **syntax**
 
 ```html

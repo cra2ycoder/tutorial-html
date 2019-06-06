@@ -41,14 +41,6 @@
 
 ---
 
-**Tag omissions**
-
-```
-none
-```
-
----
-
 **syntax**
 
 ```html

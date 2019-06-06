@@ -21,12 +21,6 @@
   - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure
   - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption
 
-**Tag omissions**
-
-```
-none
-```
-
 **syntax**
 
 ```html

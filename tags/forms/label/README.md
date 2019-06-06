@@ -22,12 +22,6 @@
 - best replacement for `placeholder` attribute
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label
 
-**Tag omissions**
-
-```
-none
-```
-
 **syntax**
 
 ```html

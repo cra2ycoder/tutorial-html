@@ -21,12 +21,6 @@
 - `open` boolean attribute will be added when toggling the `details` tag
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
 
-**Tag omissions**
-
-```
-none
-```
-
 **syntax**
 
 ```html

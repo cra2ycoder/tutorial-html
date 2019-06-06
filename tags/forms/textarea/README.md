@@ -20,12 +20,6 @@
 - example: feedback, comment and review forms
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea
 
-**Tag omissions**
-
-```
-no
-```
-
 **syntax**
 
 ```html

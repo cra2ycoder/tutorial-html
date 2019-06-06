@@ -20,12 +20,6 @@
 - can be **nested**
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol
 
-**Tag omissions**
-
-```
-none
-```
-
 **syntax**
 
 ```html

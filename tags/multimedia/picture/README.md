@@ -22,12 +22,6 @@
   - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
   - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source
 
-**Tag omissions**
-
-```
-none
-```
-
 **syntax**
 
 ```html

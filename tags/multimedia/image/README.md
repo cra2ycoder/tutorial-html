@@ -26,12 +26,6 @@
 
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
 
-**Tag omissions**
-
-```
-none
-```
-
 **syntax**
 
 ```html

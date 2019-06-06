@@ -18,12 +18,6 @@
 - contains a set of `option` elements that represent the values available for other controls.
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist
 
-**Tag omissions**
-
-```
-none
-```
-
 **syntax**
 
 ```html

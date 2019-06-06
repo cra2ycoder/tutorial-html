@@ -20,12 +20,6 @@
 - first option will be the default value
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
 
-**Tag omissions**
-
-```
-none
-```
-
 **syntax**
 
 ```html

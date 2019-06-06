@@ -17,12 +17,6 @@
 
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset
 
-**Tag omissions**
-
-```
-none
-```
-
 **syntax**
 
 ```html

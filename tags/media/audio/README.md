@@ -21,12 +21,6 @@
 - comes with multiple attributes to control the player
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
 
-**Tag omissions**
-
-```
-none
-```
-
 **syntax**
 
 - default

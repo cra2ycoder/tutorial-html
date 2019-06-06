@@ -20,12 +20,6 @@
 - Also, it wil support to open the default dialer when we have the `tel:` prefix int he `href` attribute
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
 
-**Tag omissions**
-
-```
-None
-```
-
 **syntax**
 
 ```html
