@@ -5,110 +5,110 @@
 
 ## List of Global Attributes
 
-- **accesskey**
+- [accesskey](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey)
 
   - yet to add description
 
-- **autocapitalize**
+- [autocapitalize](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/autocapitalize)
 
   - yet to add description
 
-- **class**
+- [class](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class)
 
   - yet to add description
 
-- **contenteditable**
+- [contenteditable](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable)
 
   - yet to add description
 
-- **contextmenu**
+- [contextmenu](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contextmenu)
 
   - yet to add description
 
-- **data-\***
+- [data-\*](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*)
 
   - yet to add description
 
-- **dir**
+- [dir](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/dir)
 
   - yet to add description
 
-- **draggable**
+- [draggable](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/draggable)
 
   - yet to add description
 
-- **dropzone**
+- [dropzone](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/dropzone)
 
   - yet to add description
 
-- **exportparts**
+- [exportparts](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/exportparts)
 
   - yet to add description
 
-- **hidden**
+- [hidden](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/hidden)
 
   - yet to add description
 
-- **id**
+- [id](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id)
 
   - yet to add description
 
-- **inputmode**
+- [inputmode](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inputmode)
 
   - yet to add description
 
-- **is**
+- [is](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/is)
 
   - yet to add description
 
-- **itemid**
+- [itemid](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemid)
 
   - yet to add description
 
-- **itemprop**
+- [itemprop](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemprop)
 
   - yet to add description
 
-- **itemref**
+- [itemref](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemref)
 
   - yet to add description
 
-- **itemscope**
+- [itemscope](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemscope)
 
   - yet to add description
 
-- **itemtype**
+- [itemtype](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemtype)
 
   - yet to add description
 
-- **lang**
+- [lang](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang)
 
   - yet to add description
 
-- **part **
+- [part](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
 
   - yet to add description
 
-- **slot**
+- [slot](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/slot)
 
   - yet to add description
 
-- **spellcheck **
+- [spellcheck](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/spellcheck)
 
   - yet to add description
 
-- **style**
+- [style](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style)
 
   - yet to add description
 
-- **tabindex**
+- [tabindex](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
 
   - yet to add description
 
-- **title**
+- [title](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/title)
 
   - yet to add description
 
-**translate**
+- [translate](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/translate)
 
-    - yet to add description
+  - yet to add description
