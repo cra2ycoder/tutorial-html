@@ -511,22 +511,15 @@
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style">style</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>contains style information for a document, or part of a document.</li>
+        <li>It contains CSS, which is applied to the contents of the document containing the style element.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link">link</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>specifies relationships between the current document and an external resource</li>
+        <li>This element is most commonly used to link to stylesheets.</li>
+        <li>It is also used to establish site icons (both "favicon" style icons and mobile home screen/app icons) among other things.</li>
     </ul>
     <br />
 </details>
