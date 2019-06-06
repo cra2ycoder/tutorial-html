@@ -24,12 +24,6 @@
 
 - for more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
 
-**Tag omissions**
-
-```
-none
-```
-
 **syntax**
 
 ```html
