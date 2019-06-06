@@ -531,32 +531,19 @@
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas">canvas</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>the canvas scripting API or the WebGL API to draw graphics and animations.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript">noscript</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>defines a section of HTML to be inserted if a script type on the page is unsupported or if scripting is currently turned off in the browser.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script">script</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>used to embed or reference executable code</li>
+        <li>this is typically used to embed or refer to JavaScript code</li>
+        <li> The script element can also be used with other languages, such as WebGL's GLSL shader programming language.</li>
     </ul>
     <br />
 </details>
