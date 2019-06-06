@@ -555,32 +555,17 @@
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe">iframe</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a nested browsing context, embedding another HTML page into the current one.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object">object</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/param">param</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>defines parameters for an object element.</li>
     </ul>
     <br />
 </details>
