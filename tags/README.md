@@ -415,62 +415,36 @@
     <h4>blocks</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div">div</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>It is the generic container for flow content.</li>
+        <li>It has no effect on the content or layout until styled using CSS</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">blockquote</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>indicates that the enclosed text is an extended quotation.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl">dl</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a description list.</li>
+        <li>The element encloses a list of groups of terms (specified using the dt element) and descriptions (provided by dd elements).</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd">dd</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>provides the details about or the definition of the preceding term (dt) in a description list (dl).</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt">dt</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>specifies a term in a description or definition list, and as such must be used inside a dl element.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre">pre</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents preformatted text which is to be presented exactly as written in the HTML file.</li>
+        <li>The text is typically rendered using a non-proportional ("monospace") font.</li>
+        <li>Whitespace inside this element is displayed as written</li>
     </ul>
     <br />
     <h4>table</h4>
