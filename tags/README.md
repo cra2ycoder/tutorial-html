@@ -343,32 +343,19 @@
     <br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details">details</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>creates a disclosure widget in which information is visible only when the widget is toggled into an "open" state.</li>
+        <li>A summary or label can be provided using the summary element.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary">summary</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>specifies a summary, caption, or legend for a details element's disclosure box.</li>
+        <li>Clicking the summary element toggles the state of the parent details element open and closed.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog">dialog</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a dialog box or other interactive component, such as an inspector or window.</li>
     </ul>
     <br />
 </details>
