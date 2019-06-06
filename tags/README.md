@@ -283,101 +283,55 @@
     <h4>rare</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/b">b</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Used to set bold style to the text</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i">i</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Used to set italic styled to the text</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/u">u</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Used to set underline style to the text</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q">q</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Used to include the double quotes to the text</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/s">s</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Used to set the strike through style to the text</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small">small</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Used to set the font size to smaller to the text</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong">strong</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Used to set bold style to the text</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub">sub</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>specifies inline text which should be displayed as subscript for solely typographical reasons.</li>
+        <li>Subscripts are typically rendered with a lowered baseline using smaller text.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sup">sup</a>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>specifies inline text which is to be displayed as superscript for solely typographical reasons</li>
+        <li>Superscripts are usually rendered with a raised baseline using smaller text.</li>
     </ul>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time">time</a><ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>represents a specific period in time</li>
+        <li>It may include the datetime attribute to translate dates into machine-readable format</li>
+        <li>Allowing for better search engine results or custom features such as reminders.</li>
     </ul>
     <br />
 </details>
