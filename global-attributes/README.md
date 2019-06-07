@@ -119,15 +119,23 @@
 
 - [id](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id)
 
-  - yet to add description
+  - defines an identifier (ID)
+  - must be unique in the whole document.
+  - Its purpose is to identify the element when linking, scripting, or styling (with CSS).
 
-- [inputmode](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inputmode)
+```html
+<button id="btn-submit">submit</button>
+<script type="text/javascript">
+  var element = document.getElementById("btn-submit");
+  console.log(element);
+</script>
+```
 
-  - yet to add description
+---
 
-- [is](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/is)
+<!-- - [inputmode](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inputmode) -->
 
-  - yet to add description
+<!-- - [is](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/is) -->
 
 - [itemid](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemid)
 
