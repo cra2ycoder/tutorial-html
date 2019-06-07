@@ -3,51 +3,119 @@
 - common to all HTML elements
 - they can be used on all elements, though they may have no effect on some elements.
 
+---
+
 ## List of Global Attributes
 
-- [accesskey](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey)
-
-  - yet to add description
+<!-- - [accesskey](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey)
 
 - [autocapitalize](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/autocapitalize)
-
-  - yet to add description
+-->
 
 - [class](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class)
 
-  - yet to add description
+  - space-separated list of the classes of the element
+  - Classes allow CSS
+  - Class names used as selectors to select and access the element through javascript Javascript `document.getElementsByClassName()`
+
+```html
+<style>
+  .size {
+    width: 100px;
+    height: 40px;
+  }
+
+  .position {
+    text-align: center;
+    line-height: 40px;
+  }
+
+  .theme {
+    color: white;
+    background-color: red;
+    font-size: 1rem;
+  }
+</style>
+<div class="size position theme">Button</div>
+<script type="text/javascript">
+  var element = document.getElementsByClassName("size");
+  console.log(element); // HTMLCollection
+</script>
+```
+
+---
 
 - [contenteditable](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable)
 
-  - yet to add description
+  - an enumerated attribute indicating if the element should be editable by the user. If so, the browser modifies its widget to allow editing.
 
-- [contextmenu](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contextmenu)
+```html
+<div contenteditable="true">Type here to change the value...</div>
+```
 
-  - yet to add description
+---
+
+<!-- - [contextmenu](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contextmenu) -->
 
 - [data-\*](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*)
 
-  - yet to add description
+  - custom data attributes,
+  - allow proprietary information to be exchanged between the HTML and its DOM representation by scripts.
+
+```html
+<div id="product-item" data-id="1" data-name="product" data-info="product info">
+  Product
+</div>
+<script type="text/javascript">
+  var element = document.getElementById("product-item");
+  console.log(element.dataset);
+  // DOMStringMap { id: "1", name: "product", info: "product info"}
+</script>
+```
+
+---
 
 - [dir](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/dir)
 
-  - yet to add description
+  - an enumerated attribute indicates the directionality of the element's text.
+
+```html
+<p dir="rtl">
+  This paragraph is in English but wrongly goes right to left.
+</p>
+<p dir="ltr">
+  This paragraph is in English and correctly goes left to right.
+</p>
+```
+
+---
 
 - [draggable](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/draggable)
 
-  - yet to add description
+  - enumerated attribute that indicates whether the element can be dragged, either with native browser behavior or the HTML Drag and Drop API.
 
-- [dropzone](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/dropzone)
+```html
+<img src="https://via.placeholder.com/150?text=Drag Me" draggable="true" />
+<div draggable="true">Drag Me</div>
+```
 
-  - yet to add description
+---
 
-- [exportparts](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/exportparts)
+<!-- - [dropzone](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/dropzone)
 
-  - yet to add description
+- [exportparts](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/exportparts) -->
 
 - [hidden](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/hidden)
 
-  - yet to add description
+  - used to hide the elements of the page
+
+```html
+<p hidden>
+  This content is not relevant to this page right now, so should not be seen!
+</p>
+```
+
+---
 
 - [id](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id)
 

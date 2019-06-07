@@ -5,6 +5,72 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Global Attributes</title>
+    <style>
+      .size {
+        width: 100px;
+        height: 40px;
+      }
+
+      .position {
+        text-align: center;
+        line-height: 40px;
+      }
+
+      .theme {
+        color: white;
+        background-color: red;
+        font-size: 1rem;
+      }
+    </style>
   </head>
-  <body></body>
+  <body>
+    <!-- <button accesskey="s">submit</button> -->
+    <!-- <input type="text" name="" id="" autocapitalize="words" /> -->
+
+    <!-- class -->
+    <div class="size position theme">Button</div>
+
+    <script type="text/javascript">
+      var element = document.getElementsByClassName("size");
+      console.log(element); // HTMLCollection
+    </script>
+
+    <br />
+
+    <!-- contenteditable -->
+    <div contenteditable="true">Type here to change the value...</div>
+
+    <!-- data-* -->
+    <div
+      id="product-item"
+      data-id="1"
+      data-name="product"
+      data-info="product info"
+    >
+      Product
+    </div>
+    <script type="text/javascript">
+      var element = document.getElementById("product-item");
+      console.log(element.dataset);
+      // DOMStringMap { id: "1", name: "product", info: "product info"}
+    </script>
+
+    <!-- dir -->
+    <p dir="rtl">
+      This paragraph is in English but wrongly goes right to left.
+    </p>
+    <p dir="ltr">
+      This paragraph is in English and correctly goes left to right.
+    </p>
+
+    <!-- draggable -->
+    <img src="https://via.placeholder.com/150?text=Drag Me" draggable="true" />
+    <div draggable="true">Drag Me</div>
+
+    <!-- hidden -->
+    <p hidden>
+      This content is not relevant to this page right now, so should not be
+      seen!
+    </p>
+  </body>
 </html>
