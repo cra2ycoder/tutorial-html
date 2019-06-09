@@ -217,7 +217,15 @@
 
 - [title](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/title)
 
-  - yet to add description
+  - contains text representing advisory information related to the element it belongs to.
+
+```html
+<p>
+  The three primary web development technologies are
+  <abbr title="Hypertext Markup Language">HTML</abbr>,
+  <abbr title="Cascading Stylesheets">CSS</abbr>, and JavaScript.
+</p>
+```
 
 - [translate](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/translate)
 
