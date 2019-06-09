@@ -207,7 +207,13 @@
 
 - [tabindex](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
 
-  - yet to add description
+  - indicates if its element can be focused, and if/where it participates in sequential keyboard navigation (usually with the Tab key, hence the name).
+
+```html
+<p tabindex="0">tabindex 0</p>
+<p tabindex="1">tabindex 1</p>
+<p tabindex="2">tabindex 2</p>
+```
 
 - [title](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/title)
 
