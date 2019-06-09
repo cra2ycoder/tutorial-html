@@ -159,23 +159,51 @@
 
 - [lang](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang)
 
-  - yet to add description
+  - helps define the language of an element
+  - If the attribute value is the empty string `(lang="")`, the language is set to unknown;
+  - if the language tag is not valid according to **BCP47**, it is set to invalid.
 
-- [part](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
+```html
+<p lang="en-GB">This paragraph is defined as British English.</p>
+<p lang="fr">Ce paragraphe est défini en français.</p>
+```
 
-  - yet to add description
+<!-- - [part](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
 
-- [slot](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/slot)
+  - yet to add description -->
 
-  - yet to add description
+<!-- - [slot](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/slot)
+
+  - yet to add description -->
 
 - [spellcheck](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/spellcheck)
 
-  - yet to add description
+  - it is an enumerated attribute defines whether the element may be checked for spelling errors.
+
+```html
+<p contenteditable spellcheck="true">
+  This exampull will be checkd fur spellung when you try to edit it.
+</p>
+
+<p contenteditable spellcheck="false">
+  This exampull will nut be checkd fur spellung when you try to edit it.
+</p>
+```
 
 - [style](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style)
 
-  - yet to add description
+  - contains CSS styling declarations to be applied to the element
+  - it is recommended for styles to be defined in a separate file or files
+  - This attribute and the style element have mainly the purpose of allowing for quick styling, for example for testing purposes.
+
+```html
+<div style="background: #ffe7e8; border: 2px solid #e66465;">
+  <p style="margin: 15px; line-height: 1.5; text-align: center;">
+    Well, I am the slime from your video<br />
+    Oozin' along on your livin' room floor.
+  </p>
+</div>
+```
 
 - [tabindex](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
 
