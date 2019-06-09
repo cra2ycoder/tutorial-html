@@ -139,23 +139,15 @@
 
 - [itemid](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemid)
 
-  - yet to add description
-
 - [itemprop](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemprop)
-
-  - yet to add description
 
 - [itemref](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemref)
 
-  - yet to add description
-
 - [itemscope](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemscope)
-
-  - yet to add description
 
 - [itemtype](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemtype)
 
-  - yet to add description
+---
 
 - [lang](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang)
 
@@ -168,13 +160,12 @@
 <p lang="fr">Ce paragraphe est défini en français.</p>
 ```
 
+---
+
 <!-- - [part](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
+- [slot](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/slot) -->
 
-  - yet to add description -->
-
-<!-- - [slot](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/slot)
-
-  - yet to add description -->
+---
 
 - [spellcheck](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/spellcheck)
 
@@ -189,6 +180,8 @@
   This exampull will nut be checkd fur spellung when you try to edit it.
 </p>
 ```
+
+---
 
 - [style](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style)
 
@@ -205,6 +198,8 @@
 </div>
 ```
 
+---
+
 - [tabindex](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
 
   - indicates if its element can be focused, and if/where it participates in sequential keyboard navigation (usually with the Tab key, hence the name).
@@ -214,6 +209,8 @@
 <p tabindex="1">tabindex 1</p>
 <p tabindex="2">tabindex 2</p>
 ```
+
+---
 
 - [title](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/title)
 
@@ -227,9 +224,9 @@
 </p>
 ```
 
-- [translate](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/translate)
+---
 
-  - yet to add description
+<!-- - [translate](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/translate) -->
 
 ---
 
