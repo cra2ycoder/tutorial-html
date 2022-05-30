@@ -1,0 +1,132 @@
+{
+  "editor.fontFamily": "'Fira Code', 'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "editor.formatOnSave": true,
+  "css.validate": false,
+  "scss.validate": true,
+  "javascript.validate.enable": false,
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "gitlens.codeLens.authors.enabled": false,
+  "gitlens.codeLens.recentChange.enabled": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.prettierrc": true,
+    "**/.gitignore": true,
+    "**/node_modules": true,
+    "**/.next": true,
+    "**/.babelrc": true,
+    "**/.editorconfig": true,
+    "**/.eslintrc.json": true,
+    "**/.eslintrc.base.json": true,
+    "**/**/styles.css": true,
+    "globals.d.ts": true,
+    ".nowignore": true,
+    "**/.prettierignore/": true,
+    "**/.eslintignore/": true,
+    "**/.tmp/": true,
+    "**/yarn.lock": true,
+    "**/package-lock.json": true,
+    "**/.yarnrc": true,
+    "**/.storybook": true,
+    "**/.npmrc": true,
+    "next-env.d.ts": true,
+    "lerna.json": true,
+    "postcss.config.js": true,
+    "jest.config.js": true,
+    ".scannerwork": true,
+    "coverage": true,
+    "sonarqube.config.js": true
+    // "tsconfig.json": true
+  },
+
+  "search.exclude": {
+    "**/node_modules": true,
+    ".prettierrc": true,
+    "**/*.md": true,
+    "**/**/*.md": true,
+    "**/**/**/*.md": true,
+    "**/.gitignore": true,
+    "**/.next": true,
+    "**/.babelrc": true,
+    "**/.editorconfig": true,
+    "**/.eslintrc.json": true,
+    "**/.eslintrc.base.json": true,
+    "**/.nowignore": true,
+    "**/dist": true,
+    "**/**/dist": true,
+    "**/*.json": true,
+    "**/*unused/**": true,
+    "**/*snapshots__": true,
+    "**/coverage/**": true,
+    "**/.vscode": true,
+    "**/__backup.ts": true,
+    "**/__backup.tsx": true,
+    "**/.storybook": true,
+    "**/.npmrc": true,
+    "next-env.d.ts": true,
+    "lerna.json": true,
+    "postcss.config.js": true,
+    "jest.config.js": true,
+    "sonarqube.config.js": true,
+    ".scannerwork": true
+  },
+
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/.gitignore": true,
+    "**/yarn.lock": true,
+    "**/.next": true,
+    "**/.babelrc": true,
+    "**/.editorconfig": true,
+    "**/.eslintrc.json": true,
+    "**/.nowignore": true,
+    "**/**/styles.css": true,
+    "**/__backup.ts": true,
+    "**/__backup.tsx": true,
+    "**/*.md": true,
+    "**/.storybook": true,
+    "**/.npmrc": true,
+    "next-env.d.ts": true,
+    "lerna.json": true,
+    "postcss.config.js": true,
+    "jest.config.js": true,
+    "sonarqube.config.js": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": false
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "gitlens.advanced.messages": {
+    "suppressLineUncommittedWarning": true
+  },
+  "editor.cursorBlinking": "smooth",
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.fontSize": 14,
+  "editor.accessibilityPageSize": 16,
+  "editor.formatOnType": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.suggestSelection": "first",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": ["mvel"]
+}
